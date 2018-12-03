@@ -1,1 +1,1 @@
-"use strict";var name="Robin",alertName=function(a){alert(a)};alertName(name);
+"use strict";

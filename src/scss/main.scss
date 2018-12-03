@@ -1,5 +1,5 @@
+// Import variables
 @import 'variables';
 
-body {
-	background-color: $color01;
-}
+// Import partial files
+@import 'template';
