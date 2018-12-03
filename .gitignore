@@ -3,3 +3,6 @@
 
 # Software generated files #
 prepros-6.config
+
+# Node modules #
+node_modules/
