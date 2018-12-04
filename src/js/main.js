@@ -1,3 +1,9 @@
-document.querySelector('#toggle-menu').addEventListener('click', (e) => {
-	console.log(e.target)
-})
+$(document).ready(() => {
+	menuHandler()
+});
+
+const menuHandler = () => {
+	$('#toggle-menu').on('click', () => {
+		console.log($(this))
+	});
+}
