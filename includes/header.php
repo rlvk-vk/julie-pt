@@ -16,11 +16,11 @@
 			</div>
 			<nav>
 				<ul>
-					<li><a href="#">Personlig træning</a></li>
-					<li><a href="#">Online forløb</a></li>
-					<li><a href="#">Guides</a></li>
-					<li><a href="#">Om mig</a></li>
-					<li><a href="#">Kontakt</a></li>
+					<li><a href="/pages/personlig-traening">Personlig træning</a></li>
+					<li><a href="/pages/online-forloeb">Online forløb</a></li>
+					<li><a href="/pages/guides">Guides</a></li>
+					<li><a href="/pages/om-mig">Om mig</a></li>
+					<li><a href="/pages/kontakt">Kontakt</a></li>
 				</ul>
 			</nav>
 		</header>
