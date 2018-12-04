@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css" />
 	</head>
 	<body>
-		<header className={this.state.menuIsActive ? 'Header toggled' : 'Header'}>
+		<header>
 			<div id="toggle-menu">
 				<span></span>
 				<span></span>
@@ -23,5 +23,4 @@
 					<li><a href="#">Kontakt</a></li>
 				</ul>
 			</nav>
-			<section id="overlay"></section>
 		</header>

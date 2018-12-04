@@ -36,11 +36,11 @@ header {
 
 		ul {
 			list-style: none;
-			position: relative;
-			right: -100%;
-			transition: right .4s cubic-bezier(.17, .67, .73, 1.44);
-
+			
 			li {
+				position: relative;
+				right: -100%;
+				transition: right .4s cubic-bezier(.17, .67, .73, 1.44);
 				margin-bottom: 20px;
 				text-transform: uppercase;
 
@@ -52,6 +52,14 @@ header {
 					text-decoration: none;
 					color: $white;
 				}
+			}
+		}
+	}
+
+	&.toggled {
+		#toggle-menu {
+			span {
+				background-color: $white;
 			}
 		}
 	}
