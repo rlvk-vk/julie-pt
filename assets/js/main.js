@@ -1,1 +1,1 @@
-"use strict";$(document).ready(function(){menuHandler()});var menuHandler=function(){$("#toggle-menu").on("click",function(){console.log($(void 0))})};
+"use strict";$(document).ready(function(){menuHandler()});var menuHandler=function(){$("#toggle-menu").on("click",function(){console.log($(this))})};

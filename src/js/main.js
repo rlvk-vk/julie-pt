@@ -3,7 +3,7 @@ $(document).ready(() => {
 });
 
 const menuHandler = () => {
-	$('#toggle-menu').on('click', () => {
+	$('#toggle-menu').on('click', function() {
 		console.log($(this))
 	});
 }
