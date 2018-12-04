@@ -7,6 +7,6 @@ const menuHandler = () => {
 		$('#overlay').fadeToggle()
 		$('header').toggleClass('toggled')
 
-		console.log($(this).find('li'))
+		console.log($(this))
 	})
 }
