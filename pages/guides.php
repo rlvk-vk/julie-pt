@@ -1,10 +1,7 @@
 <?php 
 $PAGE_TITLE = 'Guides | Julie Personlig Træner';
-include '../includes/header.php'; 
-
-echo $_SERVER['DOCUMENT_ROOT'];
-?>
+include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
 
 <h1>Guides</h1>
 
-<?php include '../includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/footer.php'; ?>
