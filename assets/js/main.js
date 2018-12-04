@@ -1,0 +1,1 @@
+"use strict";document.querySelector("#toggle-menu").addEventListener("click",function(e){console.log(e.target)});
