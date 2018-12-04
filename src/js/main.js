@@ -6,7 +6,14 @@ const menuHandler = () => {
 	$('#toggle-menu').on('click', function() {
 		$('#overlay').fadeToggle()
 		$('header').toggleClass('toggled')
+		$('header nav').toggle()
 
-		console.log($(this).next().find('li'))
+		const menuLinks = $(this).next().find('li')
+
+		menuLinks.each(function(i) {
+			setTimeout(() => {
+				$(this).css('right', '0')
+			}, i * 100)
+		})
 	})
 }
