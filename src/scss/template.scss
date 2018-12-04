@@ -7,8 +7,8 @@
 // Header styling
 header {
 	#toggle-menu {
-		top: 20px;
-		right: 20px;
+		top: $spacer;
+		right: $spacer;
 		position: fixed;
 		z-index: 10;
 		
@@ -17,11 +17,11 @@ header {
 		}
 
 		span {
-			width: 30px;
+			width: $spacer * 1.5;
 			height: 2px;
 			background-color: $black;
 			display: block;
-			margin-bottom: 5px;
+			margin-bottom: $spacer * .25;
 			transition: background-color .4s;
 		}
 	}
@@ -42,11 +42,15 @@ header {
 				position: relative;
 				right: -100%;
 				transition: right .4s cubic-bezier(.17, .67, .73, 1.44);
-				margin-bottom: 20px;
+				margin-bottom: $spacer;
 				text-transform: uppercase;
 
 				&:last-of-type {
 					margin-bottom: 0;
+				}
+
+				&.showing {
+					right: $spacer;
 				}
 				
 				a {
