@@ -115,6 +115,14 @@ h3 {
 	font-style: italic;
 }
 
+.p-1 {
+	padding: $spacer;
+}
+
+.p-2 {
+	padding: $spacer * 2;
+}
+
 .mb-1 {
 	margin-bottom: $spacer;
 }
