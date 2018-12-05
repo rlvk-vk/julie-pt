@@ -73,7 +73,9 @@ header {
 }
 
 footer {
-	background-color: $black;
+	background-color: rgba($black, 20);
+	text-align: center;
+	color: $white;
 }
 
 // Styling of global overlay
