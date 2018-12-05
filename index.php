@@ -3,7 +3,7 @@ $PAGE_TITLE = 'Julie | Personlig Træner';
 include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 <main>
-	<div id="hero">
+	<div id="h" style="background-image: url('/assets/images/hero.jpg');">
 		<div class="if"></div>
 		<div class="c">
 			<h1>Personlig træner, coach og specialist i vegansk livsstil</h1>
@@ -21,7 +21,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i">
+		<div class="i" style="background-image: url('/assets/images/hero.jpg');">
 			<div class="if"></div>
 			<h3>Nyd en hverdag med træning som du elsker</h3>
 		</div>
@@ -31,7 +31,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="iwt">
+	<div class="iwt" style="background-image: url('/assets/images/hero.jpg');">
 		<div class="if"></div>
 		<div class="c">
 			<h2>Det rette mindset og fuld fokus på dine mål</h2>
@@ -47,7 +47,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i">
+		<div class="i" style="background-image: url('/assets/images/ligemget-hvor-du-er.jpg');">
 			<div class="if"></div>
 			<h3>Ligemeget hvor du er</h3>
 		</div>
@@ -57,7 +57,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="iwt">
+	<div class="iwt" style="background-image: url('/assets/images/e-boeger-og-guides.jpg');">
 		<div class="if"></div>
 		<div class="c">
 			<h2>E-bøger og guides til dig</h2>

@@ -79,9 +79,25 @@ header {
 	background-color: $grey;
 }
 
+.cta {
+	display: block;
+	padding: $spacer * .5 $spacer;
+	border: none;
+	font-size: 14px;
+	color: $white;
+	background-color: $orange;
+	transition: background-color .4s;
+	box-shadow: $shadow1;
+	text-transform: uppercase;
+
+	&:hover {
+		cursor: pointer;
+		background-color: darken($orange, 10);
+	}
+}
+
 #h {
 	height: 100vh;
-	background-image: url('/assets/images/hero.jpg');
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -143,7 +159,6 @@ header {
 		width: 100%;
 		height: $imageHeight;
 		padding: $spacer;
-		background-image: url('/assets/images/nyd-en-hverdag-med-træning.jpg');
 		background-size: cover;
 		background-position: center;
 
@@ -183,7 +198,6 @@ header {
 
 .iwt {
 	padding: $spacer;
-	background-image: url('/assets/images/det-rette-mindset.jpg');
 	background-size: cover;
 	background-position: center;
 	position: relative;
