@@ -8,6 +8,8 @@ h3 {
 #p-t {
 	text-align: center;
 	font-size: 22px;
+	margin: $spacer * 3 0;
+	padding: 0 $spacer;
 }
 
 .if {
@@ -23,6 +25,16 @@ h3 {
 	position: relative;
 	background-size: cover;
 	background-position: center;
+	margin-bottom: $spacer * 3;
+	padding: $spacer;
+
+	h2 {
+		position: relative;
+		z-index: 2;
+		font-size: 20px;
+		color: $white;
+		width: 75%;
+	}
 }
 
 .ih-1 {
@@ -101,7 +113,28 @@ h3 {
 .q {
 	font-size: 20px;
 	font-style: italic;
-	text-align: center;	
+}
+
+.mb-1 {
+	margin-bottom: $spacer;
+}
+
+.mb-2 {
+	margin-bottom: $spacer * 2;
+}
+
+.ta-l {
+	text-align: left;
+}
+
+.ta-c {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.ta-r {
+	text-align: right;
+	margin-left: 25%;
 }
 
 .twi {
@@ -114,17 +147,9 @@ h3 {
 		top: $spacer;
 		width: 100%;
 		height: $imageHeight;
-		padding: $spacer;
 		background-size: cover;
 		background-position: center;
-
-		h2 {
-			position: relative;
-			z-index: 2;
-			font-size: 22px;
-			color: $white;
-			width: 50%;
-		}
+		margin-bottom: 0;
 	}
 
 	.c {
