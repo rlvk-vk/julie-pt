@@ -147,11 +147,11 @@ header {
 	&.bg-g {
 		background-color: $green1;
 		color: $white;
+		padding: $spacer * 3 $spacer;
 	}
 }
 
 .twi {
-	max-width: 670px;
 	position: relative;
 
 	.i {
@@ -178,7 +178,7 @@ header {
 	.c {
 		background-color: $green2;
 		position: absolute;
-		width: calc(100% - ($spacer * 2));
+		width: calc(100% - $spacer * 2);
 		color: $white;
 		margin: 0 $spacer;
 		padding: $imageHeight + $spacer * 2 $spacer $spacer;
