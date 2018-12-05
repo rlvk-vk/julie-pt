@@ -47,7 +47,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/ligemget-hvor-du-er.jpg');">
+		<div class="i" style="background-image: url('/assets/images/ligemeget-hvor-du-er.jpg');">
 			<div class="if"></div>
 			<h3>Ligemeget hvor du er</h3>
 		</div>
