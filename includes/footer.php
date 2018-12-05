@@ -1,5 +1,5 @@
 		<footer>
-			<a href="/">Footer Logo</a>
+			<a href="/" id="f-l">Footer Logo</a>
 
 			<section id="f-c">
 				<h3>Kontakt</h3>

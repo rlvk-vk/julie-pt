@@ -76,6 +76,20 @@ footer {
 	background-color: rgba($black, .8);
 	text-align: center;
 	color: $white;
+	padding: $spacer;
+
+	a {
+		color: $white;
+	}
+
+	#f-l,
+	#f-c {
+		margin-bottom: $spacer;
+	}
+
+	h3 {
+		margin-bottom: $spacer * .5;
+	}
 }
 
 // Styling of global overlay
