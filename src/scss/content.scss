@@ -95,7 +95,7 @@ h3 {
 		background-size: cover;
 		background-position: center;
 
-		h3 {
+		h2 {
 			position: relative;
 			z-index: 2;
 			font-size: 24px;
@@ -112,12 +112,6 @@ h3 {
 		padding: $imageHeight + $spacer * 2 $spacer $spacer;
 		top: 0;
 		left: 0;
-
-		h2 {
-			font-size: 40px;
-			font-weight: 700;
-			margin-bottom: $spacer * 2;
-		}
 
 		.b {
 			font-size: 22px;
@@ -139,7 +133,7 @@ h3 {
 		color: $white;
 
 		h2 {
-			font-size: 40px;
+			font-size: 24px;
 			font-weight: 700;
 			margin-bottom: $spacer * 2;
 		}
