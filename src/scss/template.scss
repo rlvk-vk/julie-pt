@@ -123,6 +123,7 @@ header {
 	text-align: center;
 	font-size: 16px;
 	padding: $spacer;
+	margin-bottom: $spacer * 3;
 
 	h2,
 	h3 {
@@ -142,7 +143,6 @@ header {
 	&.bg-d {
 		background-color: $white;
 		color: $black;
-		padding: $spacer * 3 $spacer;
 	}
 
 	&.bg-g {
@@ -153,6 +153,7 @@ header {
 
 .twi {
 	position: relative;
+	margin-bottom: $spacer * 3;
 
 	.i {
 		position: absolute;
@@ -201,10 +202,11 @@ header {
 	background-size: cover;
 	background-position: center;
 	position: relative;
+	margin-bottom: $spacer * 3;
 
 	.c {
 		position: relative;
-		width: calc(100% / 3);
+		width: 75%;
 		color: $white;
 
 		h2 {
