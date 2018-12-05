@@ -23,9 +23,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/hero.jpg');">
 			<div class="if"></div>
-			<h2>Nyd en hverdag med træning som du elsker</h2>
 		</div>
 		<div class="c">
+			<h3>Nyd en hverdag med træning som du elsker</h3>
 			<div class="b">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
 			<button class="cta">Læs mere</button>
 		</div>
@@ -49,9 +49,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/ligemeget-hvor-du-er.jpg');">
 			<div class="if"></div>
-			<h2>Ligemeget hvor du er</h2>
 		</div>
 		<div class="c">
+			<h3>Ligemeget hvor du er</h3>
 			<div class="b">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
 			<button class="cta">Online forløb</button>
 		</div>
