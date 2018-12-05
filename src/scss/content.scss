@@ -1,3 +1,9 @@
+h1,
+h2,
+h3 {
+	text-transform: uppercase;
+}
+
 .if {
 	position: absolute;
 	top: 0;
@@ -36,7 +42,6 @@
 		left: $spacer;
 
 		h1 {
-			text-transform: uppercase;
 			font-size: 26px;
 			font-weight: 700;
 			color: $white;
@@ -54,7 +59,6 @@
 	h2,
 	h3 {
 		font-weight: 700;
-		text-transform: uppercase;
 	}
 
 	h2 {
@@ -95,7 +99,6 @@
 			position: relative;
 			z-index: 2;
 			font-size: 24px;
-			text-transform: uppercase;
 			font-weight: 700;
 			color: $white;
 			width: 50%;
