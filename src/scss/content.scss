@@ -202,18 +202,42 @@ h3 {
 	}
 }
 
-.form-element {
-    position: relative;
-    margin-bottom: 20px;
+form {
+	padding: $spacer;
+	margin-bottom: $spacer * 3;
 
-    input {
-        width: 100%;
-        padding: 10px;
-        border: none;
-        box-shadow: 1px 1px 6px rgba(black, .4);
-    }
+	.form-element {
+		position: relative;
+		margin-bottom: 20px;
 
-    &:last-of-type {
-        margin-bottom: 0;
-    }
+		label {
+			font-size: 12px;
+			margin-bottom: $spacer * .25;
+		}
+		
+		input,
+		textarea {
+			width: 100%;
+			padding: 10px;
+			font-size: 14px;
+			border: none;
+			background-color: $white;
+			transition: background-color .4s;
+			box-shadow: 1px 1px 6px rgba(black, .4);
+
+			&:focus {
+				outline: none;
+				background-color: darken($white, 10);
+			}
+		}
+
+		textarea {
+			height: $spacer * 3;
+			resize: horizontal;
+		}
+		
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
 }
