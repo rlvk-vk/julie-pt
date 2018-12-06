@@ -59,6 +59,7 @@ h3 {
 	transition: background-color .4s;
 	box-shadow: $shadow1;
 	text-transform: uppercase;
+	-webkit-appearance: none;
 
 	&:hover {
 		cursor: pointer;
