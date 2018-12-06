@@ -127,13 +127,16 @@ h3 {
 	margin-bottom: $spacer * 2;
 }
 
+.c {
+	margin: 0 auto;
+}
+
 .ta-l {
 	text-align: left;
 }
 
 .ta-c {
 	text-align: center;
-	margin: 0 auto;
 }
 
 .ta-r {
@@ -197,4 +200,20 @@ h3 {
 			margin-bottom: $spacer * 3;
 		}
 	}
+}
+
+.form-element {
+    position: relative;
+    margin-bottom: 20px;
+
+    input {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        box-shadow: 1px 1px 6px rgba(black, .4);
+    }
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
 }
