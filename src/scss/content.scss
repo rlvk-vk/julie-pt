@@ -206,6 +206,10 @@ form {
 	padding: $spacer;
 	margin-bottom: $spacer * 3;
 
+	h3 {
+		text-transform: none;
+	}
+
 	.form-element {
 		position: relative;
 		margin-bottom: 20px;
@@ -217,23 +221,29 @@ form {
 		
 		input,
 		textarea {
-			width: 100%;
-			padding: 10px;
-			font-size: 14px;
-			border: none;
-			background-color: $white;
-			transition: background-color .4s;
-			box-shadow: 1px 1px 6px rgba(black, .4);
+			&:not([type="submit"]) {
+				width: 100%;
+				padding: 10px;
+				font-size: 14px;
+				border: none;
+				background-color: $white;
+				transition: background-color .4s;
+				box-shadow: 1px 1px 6px rgba(black, .4);
+				
+				&:focus {
+					outline: none;
+					background-color: darken($white, 10);
+				}
+			}
 
-			&:focus {
-				outline: none;
-				background-color: darken($white, 10);
+			&[type="submit"] {
+				width: 100%;
 			}
 		}
 
 		textarea {
-			height: $spacer * 3;
-			resize: horizontal;
+			height: $spacer * 6;
+			resize: none;
 		}
 		
 		&:last-of-type {
