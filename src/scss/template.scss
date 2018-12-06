@@ -18,6 +18,16 @@ body {
 			}
 		}
 	}
+
+	&.landing-page {
+		header {
+			#toggle-menu {
+				span {
+					background-color: $white;
+				}
+			}
+		}
+	}
 }
 
 header {
