@@ -24,7 +24,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<form action="/kontakt" method="POST">
-		<h3>Kontakt mig herunder</h3>
+		<h3 class="mb-1">Kontakt mig herunder</h3>
 		<div class="form-element">
 			<label for="form-name">Navn</label>
 			<input id="form-name" type="text" name="name" placeholder="Navn">
