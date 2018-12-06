@@ -2,7 +2,7 @@
 $PAGE_TITLE = 'Julie | Personlig Træner';
 include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
-<main>
+<main id="l-p">
 	<div id="h" style="background-image: url('/assets/images/hero.jpg');">
 		<div class="if"></div>
 		<div class="c">
