@@ -10,6 +10,12 @@ body {
 	&.scrolled {
 		header {
 			background-color: rgba($black, .4);
+
+			#toggle-menu {
+				span {
+					background-color: $white;
+				}
+			}
 		}
 	}
 }
@@ -39,7 +45,7 @@ header {
 		span {
 			width: $spacer * 1.5;
 			height: 2px;
-			background-color: $white;
+			background-color: $black;
 			display: block;
 			transition: background-color .4s;
 			
