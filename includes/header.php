@@ -10,6 +10,7 @@
 	</head>
 	<body>
 		<header>
+			<a href="/" id="m-l">Logo</a>
 			<div id="toggle-menu">
 				<span></span>
 				<span></span>
