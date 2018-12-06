@@ -1,5 +1,6 @@
 $(document).ready(() => {
 	menuHandler()
+	scrollHandler()
 });
 
 const menuHandler = () => {
@@ -15,5 +16,27 @@ const menuHandler = () => {
 				$(this).toggleClass('showing')
 			}, i * 100)
 		})
+	})
+}
+
+const scrollHandler = () => {
+	const headerHandler = () => {
+		let currentScroll = $(document).scrollTop()
+		const body = $('body')
+
+		if(currentScroll > 60){
+			if(!body.hasClass('scrolled')){
+				body.addClass('scrolled')
+			}
+		} else {
+			if(body.hasClass('scrolled')){
+				body.removeClass('scrolled')
+			}
+		}
+	}
+	headerHandler()
+
+	$(document).on('scroll', () => {
+		headerHandler()
 	})
 }
