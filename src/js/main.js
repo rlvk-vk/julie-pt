@@ -14,7 +14,7 @@ const menuHandler = () => {
 		menuLinks.each(function(i) {
 			setTimeout(() => {
 				$(this).toggleClass('showing')
-			}, i * 100)
+			}, i * 50)
 		})
 	})
 }

@@ -11,6 +11,10 @@ body {
 		header {
 			background-color: rgba($black, .4);
 
+			#m-l {
+				color: $white;
+			}
+
 			#toggle-menu {
 				span {
 					background-color: $white;
@@ -43,7 +47,8 @@ header {
 
 	#m-l {
 		text-decoration: none;
-		color: $white;
+		color: $black;
+		transition: color .4s;
 		text-transform: uppercase;
 	}
 
