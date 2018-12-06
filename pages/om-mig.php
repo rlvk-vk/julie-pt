@@ -26,7 +26,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="i ih-2" style="background-image: url('/assets/images/om-mig.jpg');">
+	<div class="i ih-2" style="background-image: url('/assets/images/smidighed.jpg');">
 		<div class="if"></div>
 	</div>
 
