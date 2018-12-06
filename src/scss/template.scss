@@ -17,6 +17,12 @@ header {
 	z-index: 10;
 	background-color: rgba($black, .4);
 
+	#m-l {
+		text-decoration: none;
+		color: $white;
+		text-transform: uppercase;
+	}
+
 	#toggle-menu {
 		&:hover {
 			cursor: pointer;
@@ -27,8 +33,11 @@ header {
 			height: 2px;
 			background-color: $white;
 			display: block;
-			margin-bottom: $spacer * .25;
 			transition: background-color .4s;
+			
+			&:not(:last-of-type) {
+				margin-bottom: $spacer * .25;
+			}
 		}
 	}
 
