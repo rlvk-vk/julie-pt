@@ -25,6 +25,10 @@ body {
 
 	&.landing-page {
 		header {
+			#m-l {
+				color: $white;
+			}
+			
 			#toggle-menu {
 				span {
 					background-color: $white;
