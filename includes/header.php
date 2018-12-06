@@ -9,7 +9,7 @@
 		<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css" />
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400i,700" rel="stylesheet">
 	</head>
-	<body>
+	<body <?php echo $_SERVER[REQUEST_URI] === '/' ? 'class="landing-page"' : null; ?>>
 		<header>
 			<a href="/" id="m-l">Logo</a>
 			<div id="toggle-menu">
