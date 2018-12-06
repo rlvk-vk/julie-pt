@@ -21,7 +21,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/hero.jpg');">
+		<div class="i" style="background-image: url('/assets/images/nyd-en-hverdag.jpg');">
 			<div class="if"></div>
 		</div>
 		<div class="c">
@@ -31,7 +31,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="iwt" style="background-image: url('/assets/images/hero.jpg');">
+	<div class="iwt" style="background-image: url('/assets/images/det-rette-mindset.jpg');">
 		<div class="if"></div>
 		<div class="c">
 			<h2>Det rette mindset og fuld fokus på dine mål</h2>
