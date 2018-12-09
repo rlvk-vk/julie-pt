@@ -10,8 +10,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="t bg-d">
-		<div class="mb-2">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme til den by hvor jeg befinder mig eller ikke har muligheden for personlig træning. Du får præcis det sammen som mine andre klienter jeg møder, med undtagelse af den fysiske kontakt. <br />Med et online forløb hos mig, kan du føle dig lige så sikker som ved personlig træning. Som træner vil jeg og min klient arbejde tæt sammen blandt andet via. mail, telefon eller skype så du kan føle dig tryg under hele træningsforløbet.<br /> Med et online trænings forløb har du muligheden for at være fleksibel og ikke skal tilpasse dit skema til din træner og træningsvarigheden afhængig også helt af dig og hvor lang tid du ønsker at bruge på din træning eller hvor meget tid du har brug for sammenlignet med et personligt træningsforløb hvor en træningstime varer cirka 60 minutter.</div>
-		<button class="cta c">Se anbefalinger</button>
+		<div class="mb-4">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme til den by hvor jeg befinder mig eller ikke har muligheden for personlig træning. Du får præcis det sammen som mine andre klienter jeg møder, med undtagelse af den fysiske kontakt. <br />Med et online forløb hos mig, kan du føle dig lige så sikker som ved personlig træning. Som træner vil jeg og min klient arbejde tæt sammen blandt andet via. mail, telefon eller skype så du kan føle dig tryg under hele træningsforløbet.<br /> Med et online trænings forløb har du muligheden for at være fleksibel og ikke skal tilpasse dit skema til din træner og træningsvarigheden afhængig også helt af dig og hvor lang tid du ønsker at bruge på din træning eller hvor meget tid du har brug for sammenlignet med et personligt træningsforløb hvor en træningstime varer cirka 60 minutter.</div>
+		<button class="cta center">Se anbefalinger</button>
 	</div>
 
 	<div class="twi">

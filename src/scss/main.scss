@@ -4,10 +4,3 @@
 // Partial files
 @import 'template';
 @import 'content';
-
-// Generate image height classes
-@for $i from 1 through 5 {
-	.ih-#{$i} {
-		height: $imageHeight * $i;
-	}
-}
