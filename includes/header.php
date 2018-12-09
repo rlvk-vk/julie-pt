@@ -6,6 +6,7 @@
 		<title><?php echo $PAGE_TITLE; ?></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.vkmedia.dk/vk-css-utility-1.0.0.css" />
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400i,700" rel="stylesheet">
 	</head>
 	<body <?php echo $_SERVER[REQUEST_URI] === '/' ? 'class="landing-page"' : null; ?>>

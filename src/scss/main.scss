@@ -5,5 +5,9 @@
 @import 'template';
 @import 'content';
 
-// Utility classes
-@import 'utility';
+// Generate image height classes
+@for $i from 1 through 5 {
+	.ih-#{$i} {
+		height: $imageHeight * $i;
+	}
+}
