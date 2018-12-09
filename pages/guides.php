@@ -19,7 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<h2 class="ta-r">Kickstart din træning</h2>
 		</div>
 		<div class="c">
-			<div class="b">Guide til at komme i gang med træning <br />Tips og gode vaner til at vedligeholde din træning<br />Ideer til at finde netop dig retning og træningsmetode</div>
+			<div class="mb-2">Guide til at komme i gang med træning <br />Tips og gode vaner til at vedligeholde din træning<br />Ideer til at finde netop dig retning og træningsmetode</div>
 
 			<button class="cta center">Læs mere</button>
 		</div>

@@ -17,10 +17,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/personlig-traening.jpg');">
 			<div class="if"></div>
-			<h2 class="ta-r os-4">Du bestemmer selv og kan tilrettelægge forløbet efter dine ønsker og det der er rigtig for dig</h2>
+			<h2 class="ta-r os-3">Du bestemmer selv og kan tilrettelægge forløbet efter dine ønsker og det der er rigtig for dig</h2>
 		</div>
 		<div class="c">
-			<div class="b">Med et online træningsforløb bestemmer du også selv hvor meget du ønsker at jeg som træner skal hjælpe dig over være ind over dit forløb. Måske har du kun brug for lidt vejledning i forhold til din kost eller til træningen og hvordan du kan optimere den. <br />Du altid muligheden for at få fat i mig som træner, da det hele foregår online. Derudover kan ofte spare på at vælge et online træningsforløb, da det ofte er billigere end et personligt træningsforløb og kostplan. Mine priser for et online træningsforløb og kostplan ligger på  mellem 700-900 kr,- pr måned, hvor et personligt træningsforløb ligger mellem 2000-3000 kr pr. måned, alt afhængig af dit forløb.</div>
+			<div class="mb-2">Med et online træningsforløb bestemmer du også selv hvor meget du ønsker at jeg som træner skal hjælpe dig over være ind over dit forløb. Måske har du kun brug for lidt vejledning i forhold til din kost eller til træningen og hvordan du kan optimere den. <br />Du altid muligheden for at få fat i mig som træner, da det hele foregår online. Derudover kan ofte spare på at vælge et online træningsforløb, da det ofte er billigere end et personligt træningsforløb og kostplan. Mine priser for et online træningsforløb og kostplan ligger på  mellem 700-900 kr,- pr måned, hvor et personligt træningsforløb ligger mellem 2000-3000 kr pr. måned, alt afhængig af dit forløb.</div>
 			<button class="cta center">Start forløb</button>
 		</div>
 	</div>
@@ -49,10 +49,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/mere-frihed.jpg');">
 			<div class="if"></div>
-			<h2 class="ta-r os-4">Mere frihed og træning efter dine behov og muligheder, hvorhen du befinder dig</h2>
+			<h2 class="ta-r os-3">Mere frihed og træning efter dine behov og muligheder, hvorhen du befinder dig</h2>
 		</div>
 		<div class="c">
-			<div class="b">Hvis et online forløb lyder lige som noget for dig men stadigvæk er lidt i tvivl om hvad du gerne vil have ud fra et ønske eller mål, kan jeg anbefale mit skræddersyede 8 ugers forløb. <br /><br />Her får du blandt andet:<br />8 ugers vejledning, hjælp, motivation og evaluering løbende <br />Et træningsprogram og kostplan som er skræddersyet til dine behov og mål og er udarbejdet i samarbejde med dig.<br />Opstartsmøde og ugentlig kontakt og opfølgning via Skype, mail eller telefon. <br />Alt afhængig af hvad du foretrækker med fremskridt, billeder, mål og vejning.<br />Muligheden for at kontakte mig præcis når du har brug for det. hvis der er spørgsmål eller noget du er i tvivl om Video eller beskrivelse af korrekt udførelse af træningsøvelser i programmet hvis der er behov for dette.<br /><br />I mine online forløb kan du selv bestemme om du ønsker at træne i et fitnesscenter eller ej.<br /><br />Prisen for 8 ugers online forløb er 900,- pr. måned<br /><br />Hvis du synes at et online forløb lyder som noget for mig står jeg klar til at hjælpe dig med alt hvad det indebærer. Kontakt mig eller book et forløb her. </div>
+			<div class="mb-2">Hvis et online forløb lyder lige som noget for dig men stadigvæk er lidt i tvivl om hvad du gerne vil have ud fra et ønske eller mål, kan jeg anbefale mit skræddersyede 8 ugers forløb. <br /><br />Her får du blandt andet:<br />8 ugers vejledning, hjælp, motivation og evaluering løbende <br />Et træningsprogram og kostplan som er skræddersyet til dine behov og mål og er udarbejdet i samarbejde med dig.<br />Opstartsmøde og ugentlig kontakt og opfølgning via Skype, mail eller telefon. <br />Alt afhængig af hvad du foretrækker med fremskridt, billeder, mål og vejning.<br />Muligheden for at kontakte mig præcis når du har brug for det. hvis der er spørgsmål eller noget du er i tvivl om Video eller beskrivelse af korrekt udførelse af træningsøvelser i programmet hvis der er behov for dette.<br /><br />I mine online forløb kan du selv bestemme om du ønsker at træne i et fitnesscenter eller ej.<br /><br />Prisen for 8 ugers online forløb er 900,- pr. måned<br /><br />Hvis du synes at et online forløb lyder som noget for mig står jeg klar til at hjælpe dig med alt hvad det indebærer. Kontakt mig eller book et forløb her. </div>
 			<button class="cta center">Book online forløb</button>
 		</div>
 	</div>

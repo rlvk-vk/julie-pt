@@ -21,7 +21,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<h2 class="ta-l">Jeg elsker at videreformidle den viden om kost og træning som jeg har erfaret virker</h2>
 		</div>
 		<div class="c">
-			<div class="b">Jeg valgt at specialisere mig indenfor vegansk kost, både i forhold til træning men også på generel basis. For mig er det helt klart en af de ting som jeg vægter utrolig højt, da jeg selv blev veganer i 2017. Så hvis du er nysgerrig på en mere plantebaseret kost i forbindelse med din træning, er du kommet det helt rigtige sted hen. Men hvis du derimod ikke har mod på at smide de animalske produkter helt endnu, skal du heller ikke være bleg for at kontakte mig, da jeg kan hjælpe dig med en sundere livsstil og få et bedre forhold til din kost hvad end du er kødspiser, spiser plantebaseret eller har et ønske om at ændre din kost i forbindelse med træning.</div>
+			<div class="mb-2">Jeg valgt at specialisere mig indenfor vegansk kost, både i forhold til træning men også på generel basis. For mig er det helt klart en af de ting som jeg vægter utrolig højt, da jeg selv blev veganer i 2017. Så hvis du er nysgerrig på en mere plantebaseret kost i forbindelse med din træning, er du kommet det helt rigtige sted hen. Men hvis du derimod ikke har mod på at smide de animalske produkter helt endnu, skal du heller ikke være bleg for at kontakte mig, da jeg kan hjælpe dig med en sundere livsstil og få et bedre forhold til din kost hvad end du er kødspiser, spiser plantebaseret eller har et ønske om at ændre din kost i forbindelse med træning.</div>
 			<button class="cta center">Skriv til mig</button>
 		</div>
 	</div>
@@ -57,7 +57,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/mit-forhold-til-traening.jpg');">
 			<div class="if"></div>
-			<h2 class="q ta-r os-4">“Mit forhold til træning og kost har ændret sig meget hen over de sidste mange år af mit liv”</h2>
+			<h2 class="q ta-r os-3">“Mit forhold til træning og kost har ændret sig meget hen over de sidste mange år af mit liv”</h2>
 		</div>
 		<div class="c">
 			<div class="b">Derefter begyndte min interesse i træning. Flere og flere jeg kendte var begyndt og træne og da jeg havde droppet min gymnastik, følte jeg et behov for at lave et eller andet fysisk. Jeg har altid været utrolig dårlig til konditionstræning, så det faldt mig ikke naturlig at det skulle være noget i den retning. Derfor begyndte jeg at styrketræne. Jeg var lige blevet færdig med gymnasiet og skulle til at læse videre. Jeg trænede cirka 3 gange om ugen, men jeg havde ikke den fjerneste ide om hvad jeg lavede. Det er nok normalt for de fleste nybegynder, men jeg havde ikke sat mig ind i noget som helst. Jeg havde ingen mål, ingen erfaring, ingen jeg kunne spørger til råds og jeg ville ikke kontakte en personlig træner med mere erfaring.</div>
@@ -76,7 +76,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div class="twi">
 		<div class="i" style="background-image: url('/assets/images/traening-i-min-hverdag.jpg');">
 			<div class="if"></div>
-			<h2 class="q ta-r os-4">“Træning i min hverdag har givet mig mere overskud og jeg fandt lysten til at bevæge mig”</h2>
+			<h2 class="q ta-r os-3">“Træning i min hverdag har givet mig mere overskud og jeg fandt lysten til at bevæge mig”</h2>
 		</div>
 		<div class="c">
 			<div class="b">Træning i min hverdag har givet mig meget mere overskud og jeg har fundet lysten til at træne. Det har givet mig lyst til at udfordre og presse mig selv og være en i konstant udvikling, uanset om jeg træner hårdt og virkelig har fokus på min kost men også når jeg slapper mere af og spiser sundt men hvad jeg har lyst til.</div>
