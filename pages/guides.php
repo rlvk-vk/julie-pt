@@ -21,7 +21,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		<div class="c">
 			<div class="b">Guide til at komme i gang med træning <br />Tips og gode vaner til at vedligeholde din træning<br />Ideer til at finde netop dig retning og træningsmetode</div>
 
-			<button class="cta">Læs mere</button>
+			<button class="cta center">Læs mere</button>
 		</div>
 	</div>
 </main>
