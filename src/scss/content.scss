@@ -63,13 +63,12 @@ h3 {
 
 	.c {
 		position: absolute;
-		bottom: $spacer * 3;
+		bottom: $spacer * 4;
 		left: $spacer;
 
 		h1 {
 			font-size: 26px;
 			color: $white;
-			width: 75%;
 		}
 	}
 }
@@ -151,17 +150,11 @@ h3 {
 
 	.c {
 		position: relative;
-		width: 75%;
 		color: $white;
 
 		h3 {
 			font-size: 24px;
 			font-weight: 700;
-			margin-bottom: $spacer * 2;
-		}
-
-		.b {
-			margin-bottom: $spacer * 3;
 		}
 	}
 }

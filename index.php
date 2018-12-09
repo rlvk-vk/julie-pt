@@ -6,7 +6,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<div id="h" style="background-image: url('/assets/images/hero.jpg');">
 		<div class="if"></div>
 		<div class="c">
-			<h1>Personlig træner, coach og specialist i vegansk livsstil</h1>
+			<h1 class="w-9">Personlig træner, coach og specialist i vegansk livsstil</h1>
 		</div>
 	</div>
 
@@ -26,16 +26,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 		<div class="c">
 			<h3>Nyd en hverdag med træning som du elsker</h3>
-			<div class="b">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
-			<button class="cta">Læs mere</button>
+			<div class="mb-2">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
+			<button class="cta center">Læs mere</button>
 		</div>
 	</div>
 
 	<div class="iwt" style="background-image: url('/assets/images/det-rette-mindset.jpg');">
 		<div class="if"></div>
-		<div class="c">
-			<h2>Det rette mindset og fuld fokus på dine mål</h2>
-			<div class="b">Jeg tror på at man sagtens kan opbygge muskler og styrke udelukkede på en plantebaseret kost. Det handler om at være opmærksom på hvad man indtager og det passer til ens personlige mål<br /><br />Vil du høre mere om hvad jeg kan gøre for dig?</div>
+		<div class="c ta-r w-9">
+			<h2 class="mb-2">Det rette mindset og fuld fokus på dine mål</h2>
+			<div class="mb-6">Jeg tror på at man sagtens kan opbygge muskler og styrke udelukkede på en plantebaseret kost. Det handler om at være opmærksom på hvad man indtager og det passer til ens personlige mål<br /><br />Vil du høre mere om hvad jeg kan gøre for dig?</div>
 			<button class="cta">Personlig træning</button>
 		</div>
 	</div>
@@ -52,16 +52,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 		<div class="c">
 			<h3>Ligemeget hvor du er</h3>
-			<div class="b">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
-			<button class="cta">Online forløb</button>
+			<div class="mb-2">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
+			<button class="cta center">Online forløb</button>
 		</div>
 	</div>
 
 	<div class="iwt" style="background-image: url('/assets/images/e-boeger-og-guides.jpg');">
 		<div class="if"></div>
-		<div class="c">
-			<h2>E-bøger og guides til dig</h2>
-			<div class="b">Inspiration til at kickstarte træningsforløb og gode råd til den veganske livsstil?</div>
+		<div class="c ta-r w-9">
+			<h2 class="mb-2">E-bøger og guides til dig</h2>
+			<div class="mb-6">Inspiration til at kickstarte træningsforløb og gode råd til den veganske livsstil?</div>
 			<button class="cta">Læs mere</button>
 		</div>
 	</div>
