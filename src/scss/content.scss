@@ -97,6 +97,14 @@ h3 {
 		background-color: $green1;
 		color: $white;
 	}
+
+	ul {
+		li {
+			&:not(:last-of-type) {
+				margin-bottom: $spacer;
+			}
+		}
+	}
 }
 
 .q {
