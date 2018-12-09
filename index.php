@@ -33,7 +33,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 	<div class="iwt" style="background-image: url('/assets/images/det-rette-mindset.jpg');">
 		<div class="if"></div>
-		<div class="c ta-r w-9">
+		<div class="c ta-r w-9 os-3">
 			<h2 class="mb-2">Det rette mindset og fuld fokus på dine mål</h2>
 			<div class="mb-6">Jeg tror på at man sagtens kan opbygge muskler og styrke udelukkede på en plantebaseret kost. Det handler om at være opmærksom på hvad man indtager og det passer til ens personlige mål<br /><br />Vil du høre mere om hvad jeg kan gøre for dig?</div>
 			<button class="cta">Personlig træning</button>
@@ -59,7 +59,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 	<div class="iwt" style="background-image: url('/assets/images/e-boeger-og-guides.jpg');">
 		<div class="if"></div>
-		<div class="c ta-r w-9">
+		<div class="c ta-r w-9 os-3">
 			<h2 class="mb-2">E-bøger og guides til dig</h2>
 			<div class="mb-6">Inspiration til at kickstarte træningsforløb og gode råd til den veganske livsstil?</div>
 			<button class="cta">Læs mere</button>
