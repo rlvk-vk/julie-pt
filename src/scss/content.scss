@@ -37,18 +37,6 @@ h3 {
 	}
 }
 
-.ih-1 {
-	height: $imageHeight;
-}
-
-.ih-2 {
-	height: $imageHeight * 2;
-}
-
-.ih-3 {
-	height: $imageHeight * 3;
-}
-
 .cta {
 	display: block;
 	padding: $spacer * .5 $spacer;
@@ -114,35 +102,6 @@ h3 {
 .q {
 	font-size: 20px;
 	font-style: italic;
-}
-
-.plr-1 {
-	padding: 0 $spacer;
-}
-
-.mb-1 {
-	margin-bottom: $spacer;
-}
-
-.mb-2 {
-	margin-bottom: $spacer * 2;
-}
-
-.c {
-	margin: 0 auto;
-}
-
-.ta-l {
-	text-align: left;
-}
-
-.ta-c {
-	text-align: center;
-}
-
-.ta-r {
-	text-align: right;
-	margin-left: 25%;
 }
 
 .twi {

@@ -5,9 +5,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 <main>
 	<h1 id="p-t">Kontakt</h1>
 
-	<div class="q ta-c plr-1 mb-2">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
+	<div class="q ta-c pr-1 pl-1 mb-2">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
 
-	<div class="ta-c plr-1 mb-2">
+	<div class="ta-c pr-1 pl-1 mb-2">
 		Julie Bechmann Jensen<br />
 		Byskov Allé 19, 3 Tv<br />
 		4200 Slagelse, Danmark<br />

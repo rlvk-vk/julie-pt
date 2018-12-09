@@ -17,5 +17,6 @@
 		<section id="overlay"></section>
 		<script src="/assets/js/jquery-3.3.1.min.js"></script>
 		<script src="/assets/js/main.js"></script>
+		<noscript>Din browser understøtter ikke JavaScript, det er anbefalet at du opdaterer din browser eller slår JavaScript til, for at få den optimale oplevelse på denne hjemmeside.</noscript>
 	</body>
 </html>
