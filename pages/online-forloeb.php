@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 <main>
 	<h1 id="p-t">Online forløb</h1>
 
-	<div class="i ih-2" style="background-image: url('/assets/images/personlig-traening.jpg');">
+	<div class="i ih-2" style="background-image: url('/assets/images/online-forloeb.jpg');">
 		<div class="if"></div>
 	</div>
 
@@ -15,7 +15,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/personlig-traening.jpg');">
+		<div class="i" style="background-image: url('/assets/images/du-bestemmer-selv.jpg');">
 			<div class="if"></div>
 			<h2 class="ta-r os-3">Du bestemmer selv og kan tilrettelægge forløbet efter dine ønsker og det der er rigtig for dig</h2>
 		</div>
@@ -25,7 +25,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="i ih-2" style="background-image: url('/assets/images/personlig-traening.jpg');">
+	<div class="i ih-2" style="background-image: url('/assets/images/er-du-i-tvivl.jpg');">
 		<div class="if"></div>
 		<h2 class="ta-l">Er du i tvivl om online forløb er noget for dig? Se alle fordelene herunder</h2>
 	</div>

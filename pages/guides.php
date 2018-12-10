@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 <main>
 	<h1 id="p-t">Guides</h1>
 
-	<div class="i ih-2" style="background-image: url('/assets/images/gode-traeningsprogrammer.jpg');">
+	<div class="i ih-2" style="background-image: url('/assets/images/guides.jpg');">
 		<div class="if"></div>
 	</div>
 
@@ -14,9 +14,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/personlig-traening.jpg');">
+		<div class="i" style="background-image: url('/assets/images/kickstart-din-traening.jpg');">
 			<div class="if"></div>
-			<h2 class="ta-r">Kickstart din træning</h2>
+			<h2 class="ta-c">Kickstart din træning</h2>
 		</div>
 		<div class="c">
 			<div class="mb-2">Guide til at komme i gang med træning <br />Tips og gode vaner til at vedligeholde din træning<br />Ideer til at finde netop dig retning og træningsmetode</div>

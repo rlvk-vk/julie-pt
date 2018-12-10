@@ -15,7 +15,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/personlig-traening.jpg');">
+		<div class="i" style="background-image: url('/assets/images/udnyt-dit-potentiale.jpg');">
 			<div class="if"></div>
 			<h2 class="ta-r os-3">Udnyt dit potentiale 100 procent hver eneste gang du træner</h2>
 		</div>
