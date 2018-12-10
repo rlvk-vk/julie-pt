@@ -8,7 +8,7 @@
 				<p>12 34 56 78</p>
 			</section>
 
-			<section id="some">
+			<section class="mb-4" id="some">
 				<a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
 				<a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
 			</section>
