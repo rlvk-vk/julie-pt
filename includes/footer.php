@@ -8,12 +8,12 @@
 				<p>12 34 56 78</p>
 			</section>
 
-			<section id="sm">
+			<section id="some">
 				<a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
 				<a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
 			</section>
 
-			<section class="vendor">
+			<section id="vendor">
 				<a href="https://vkmedia.dk" target="_blank">Lavet af VK Media</a>
 			</section>
 		</footer>

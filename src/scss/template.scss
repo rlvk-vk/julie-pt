@@ -123,30 +123,38 @@ footer {
 	padding: $spacer;
 
 	a {
-		display: inline-block;
-
-		&:not(:last-of-type) {
-			margin-right: $spacer;
-		}
-
-		svg {
-			fill: $white;
-			width: $spacer;
-			height: $spacer;
-		}
-	}
-
-	#f-l,
-	#f-c {
-		margin-bottom: $spacer;
-	}
-
-	#f-l {
-		display: block;
+		color: $white;
 	}
 
 	h3 {
 		margin-bottom: $spacer * .5;
+	}
+}
+
+#some {
+	a {
+		font-size: 40px;
+
+		&:not(:last-of-type) {
+			margin-right: $spacer;
+		}
+	}
+}
+
+#f-l,
+#f-c {
+	margin-bottom: $spacer;
+}
+
+#f-l {
+	display: block;
+}
+
+#vendor {
+	a {
+		text-decoration: none;
+		font-size: 12px;
+		color: lighten($black, 10);
 	}
 }
 
