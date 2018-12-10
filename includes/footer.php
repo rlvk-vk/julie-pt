@@ -9,8 +9,12 @@
 			</section>
 
 			<section id="sm">
-				<a href="#">Facebook</a>
-				<a href="#">Instagram</a>
+				<a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
+				<a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+			</section>
+
+			<section class="vendor">
+				<a href="https://vkmedia.dk" target="_blank">Lavet af VK Media</a>
 			</section>
 		</footer>
 
