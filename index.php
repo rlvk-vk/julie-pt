@@ -21,7 +21,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/nyd-en-hverdag.jpg');">
+		<div class="i lazyload" data-src="/assets/images/nyd-en-hverdag.jpg">
 			<div class="if"></div>
 		</div>
 		<div class="c">
@@ -31,7 +31,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="iwt" style="background-image: url('/assets/images/det-rette-mindset.jpg');">
+	<div class="iwt lazyload" data-src="/assets/images/det-rette-mindset.jpg">
 		<div class="if"></div>
 		<div class="c ta-r w-9 os-3">
 			<h2 class="mb-2">Det rette mindset og fuld fokus på dine mål</h2>
@@ -47,7 +47,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/ligemeget-hvor-du-er.jpg');">
+		<div class="i lazyload" data-src="/assets/images/ligemeget-hvor-du-er.jpg">
 			<div class="if"></div>
 		</div>
 		<div class="c">
@@ -57,7 +57,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="iwt" style="background-image: url('/assets/images/e-boeger-og-guides.jpg');">
+	<div class="iwt lazyload" data-src="/assets/images/e-boeger-og-guides.jpg">
 		<div class="if"></div>
 		<div class="c ta-r w-9 os-3">
 			<h2 class="mb-2">E-bøger og guides til dig</h2>
