@@ -1,6 +1,7 @@
 $(document).ready(() => {
 	menuHandler()
 	scrollHandler()
+	lazyloader();
 });
 
 const menuHandler = () => {
@@ -39,4 +40,10 @@ const scrollHandler = () => {
 	$(document).on('scroll', () => {
 		headerHandler()
 	})
+}
+
+const lazyloader = () => {
+	const viewport = $(window).height()
+
+	console.log(viewport)
 }

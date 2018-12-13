@@ -3,7 +3,7 @@ $PAGE_TITLE = 'Julie | Personlig Træner';
 include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 <main>
-	<div id="h" style="background-image: url('/assets/images/hero.jpg');">
+	<div id="h" class="lazyload" data-src="/assets/images/hero.jpg">
 		<div class="if"></div>
 		<div class="c">
 			<h1 class="w-9">Personlig træner, coach og specialist i vegansk livsstil</h1>
