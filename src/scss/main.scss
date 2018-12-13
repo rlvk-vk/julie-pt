@@ -4,3 +4,7 @@
 // Partial files
 @import 'template';
 @import 'content';
+
+.lazyload {
+	background-image: url('/assets/images/placeholder.jpg');
+}
