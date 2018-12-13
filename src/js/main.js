@@ -43,7 +43,22 @@ const scrollHandler = () => {
 }
 
 const lazyloader = () => {
-	const viewport = $(window).height() + $(document).scrollTop()
+	const handler = () => {
+		const viewport = {
+			top: $(document).scrollTop(),
+			bottom: $(window).height() + $(document).scrollTop()
+		}
 
-	console.log(viewport)
+		console.log(viewport)
+	}
+	
+	handler()
+
+	$(window).on('resize', () => {
+		handler()
+	})
+
+	$(document).on('scroll', () => {
+		handler()
+	})
 }
