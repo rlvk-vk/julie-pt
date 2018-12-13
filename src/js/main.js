@@ -61,7 +61,7 @@ const lazyloader = () => {
 				const src = $(this).data('src')
 
 				$(this).css('background-image', 'url("' + src + '");')
-				$(this).addClass('loaded')
+				$(this).addClass('lazyloaded').removeClass('lazyload')
 			}
 		})
 	}
