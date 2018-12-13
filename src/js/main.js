@@ -60,9 +60,7 @@ const lazyloader = () => {
 			if (((position.top <= viewport.bottom && position.top >= viewport.top) || (position.bottom >= viewport.top && position.bottom <= viewport.bottom)) && !$(this).hasClass('loaded')){
 				const src = $(this).data('src')
 
-				console.log(src)
-
-				$(this).css('background-image', 'url("' + src + '");')
+				$(this).css('background-image', 'url("' + src + '")')
 				$(this).addClass('lazyloaded').removeClass('lazyload')
 			}
 		})
