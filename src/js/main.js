@@ -49,7 +49,21 @@ const lazyloader = () => {
 			bottom: $(window).height() + $(document).scrollTop()
 		}
 
-		console.log(viewport)
+		const images = $('.lazyload')
+
+		images.each(function(){
+			const position = {
+				top: $(this).offset().top,
+				bottom: $(this).offset().top + $(this).height()
+			}
+
+			if (((position.top <= viewport.bottom && position.top >= viewport.top) || (position.bottom >= viewport.top && position.bottom <= viewport.bottom)) && !$(this).hasClass('loaded')){
+				const src = $(this).data('src')
+
+				$(this).css('background-image', 'url(' + src + ');')
+				$(this).addClass('loaded')
+			}
+		})
 	}
 	
 	handler()
