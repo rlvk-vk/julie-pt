@@ -45,9 +45,11 @@ const scrollHandler = () => {
 const lazyloader = () => {
 	const handler = () => {
 		const viewport = {
-			top: $(document).scrollTop(),
-			bottom: $(window).height() + $(document).scrollTop()
+			top: $(document).scrollTop() - ($(document).scrollTop() * 0.1),
+			bottom: $(window).height() + $(document).scrollTop() + ($(window).height() + $(document).scrollTop() * 0.1)
 		}
+
+		console.log(viewport);
 
 		const images = $('.lazyload')
 
