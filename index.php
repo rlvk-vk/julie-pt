@@ -14,20 +14,22 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		<div>Du kan altid forbedre dig, hvis du bliver ved med at træne og ligemeget hvor god du bliver, kan du altid blive bedre, hvilket er den fantastiske del af det. Hvis du samtidig har noget du gerne vil bevise overfor dig selv og andre, er der intet bedre end en udfordring.</div>
 	</div>
 
-	<div class="t bg-d">
-		<h3>Hold din krop</h3>
-		<h2>Fit & stærk</h2>
-		<div>Som personlig træner på fokus på en plantebaseret livsstil, ville jeg kunne give dig en unik løsning som passer til lige netop dig. Jeg  tror ikke på at én løsning passer til alle, men at vi sammen kan tilpasse og planlægge et individuelt forløb så du kan nå dine mål.</div>
-	</div>
-
-	<div class="twi">
-		<div class="i lazyload" data-src="/assets/images/nyd-en-hverdag.jpg">
-			<div class="if"></div>
+	<div class="d-f-lg">
+		<div class="t bg-d w-5-lg">
+			<h3>Hold din krop</h3>
+			<h2>Fit & stærk</h2>
+			<div>Som personlig træner på fokus på en plantebaseret livsstil, ville jeg kunne give dig en unik løsning som passer til lige netop dig. Jeg  tror ikke på at én løsning passer til alle, men at vi sammen kan tilpasse og planlægge et individuelt forløb så du kan nå dine mål.</div>
 		</div>
-		<div class="c">
-			<h3>Nyd en hverdag med træning som du elsker</h3>
-			<div class="mb-2">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
-			<button class="cta center">Læs mere</button>
+
+		<div class="twi w-7-lg">
+			<div class="i lazyload" data-src="/assets/images/nyd-en-hverdag.jpg">
+				<div class="if"></div>
+			</div>
+			<div class="c">
+				<h3>Nyd en hverdag med træning som du elsker</h3>
+				<div class="mb-2">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
+				<button class="cta center">Læs mere</button>
+			</div>
 		</div>
 	</div>
 
