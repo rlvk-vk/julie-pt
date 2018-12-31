@@ -63,7 +63,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 	<div class="iwt lazyload" data-src="/assets/images/e-boeger-og-guides.jpg">
 		<div class="if"></div>
-		<div class="c ta-r w-9 os-3">
+		<div class="c ta-r w-9 os-3 w-4-lg os-8-lg">
 			<h2 class="mb-2">E-bøger og guides til dig</h2>
 			<div class="mb-6">Inspiration til at kickstarte træningsforløb og gode råd til den veganske livsstil?</div>
 			<button class="cta d-ib">Læs mere</button>
