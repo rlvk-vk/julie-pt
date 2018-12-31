@@ -1,5 +1,5 @@
 		<footer>
-			<a href="/" id="f-l">Footer Logo</a>
+			<a href="/" id="f-l"><img src="/assets/images/logo-white.svg" alt="Main logo"></a>
 
 			<section id="f-c">
 				<h3>Kontakt</h3>
