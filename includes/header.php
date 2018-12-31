@@ -29,7 +29,7 @@
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 		
-		<header>
+		<header class="d-f jc-sb ai-c">
 			<a href="/" id="m-l"><img src="/assets/images/logo-white.svg" alt="Main logo"></a>
 			<div id="toggle-menu">
 				<span></span>
