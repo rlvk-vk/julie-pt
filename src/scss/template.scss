@@ -59,6 +59,11 @@ header {
 		color: $black;
 		transition: color .4s;
 		text-transform: uppercase;
+
+		img {
+			width: $spacer * 2;
+			height: $spacer * 2;
+		}
 	}
 
 	#toggle-menu {
@@ -148,6 +153,11 @@ footer {
 
 #f-l {
 	display: block;
+
+	img {
+		width: $spacer * 3;
+		height: $spacer * 3;
+	}
 }
 
 #vendor {
