@@ -6,7 +6,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<h1 id="p-t">Om mig</h1>
 
 	<div class="d-f-lg desktop-container">
-		<div class="i ih-2 w-5-lg" style="background-image: url('/assets/images/om-mig.jpg');">
+		<div class="i ih-2 w-6-lg" style="background-image: url('/assets/images/om-mig.jpg');">
 			<div class="if"></div>
 		</div>
 		
@@ -14,7 +14,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<div class="q pr-1 pl-1 mb-2 ta-c">“For mig handler fitness ikke kun om at træne i fitnesscenteret, det handler også om indre lykke og velvære.”</div>
 			
 			<div class="t bg-d">
-				<div>Mit navn er Julie Bechmann Jensen og jeg arbejder som coach, kostvejleder og personlig træner. Min arbejde og passion ligger i at kunne vejlede folk, give dem værktøjer til et vedvarende mål, samt hjælpe dem i den helt rigtige retning i forhold til dMit navn er Julie Bechmann Jensen og jeg arbejder som coach, kostvejleder og personlig træner. Min arbejde og passion ligger i at kunne vejlede folk, give dem værktøjer til et vedvarende mål, samt hjælpe dem i den helt rigtige retning i forhold til det de ønsker. For mig er det en drivfaktor at der skal være plads til selvudvikling og at mine klienter kan være med til at udvikle deres træningsprogrammer, kost og mål. Det er vigtigt for mig at det er noget vi gør i fællesskab så mine produkter og det jeg tilbyder passer netop til min klient.</div>
+				<div class="ta-l-lg">Mit navn er Julie Bechmann Jensen og jeg arbejder som coach, kostvejleder og personlig træner. Min arbejde og passion ligger i at kunne vejlede folk, give dem værktøjer til et vedvarende mål, samt hjælpe dem i den helt rigtige retning i forhold til dMit navn er Julie Bechmann Jensen og jeg arbejder som coach, kostvejleder og personlig træner. Min arbejde og passion ligger i at kunne vejlede folk, give dem værktøjer til et vedvarende mål, samt hjælpe dem i den helt rigtige retning i forhold til det de ønsker. For mig er det en drivfaktor at der skal være plads til selvudvikling og at mine klienter kan være med til at udvikle deres træningsprogrammer, kost og mål. Det er vigtigt for mig at det er noget vi gør i fællesskab så mine produkter og det jeg tilbyder passer netop til min klient.</div>
 			</div>
 		</div>
 	</div>
