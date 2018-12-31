@@ -14,14 +14,14 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		<div>Du kan altid forbedre dig, hvis du bliver ved med at træne og ligemeget hvor god du bliver, kan du altid blive bedre, hvilket er den fantastiske del af det. Hvis du samtidig har noget du gerne vil bevise overfor dig selv og andre, er der intet bedre end en udfordring.</div>
 	</div>
 
-	<div class="d-f-lg">
+	<div class="d-f-lg desktop-container">
 		<div class="t bg-d w-5-lg">
 			<h3>Hold din krop</h3>
 			<h2>Fit & stærk</h2>
 			<div>Som personlig træner på fokus på en plantebaseret livsstil, ville jeg kunne give dig en unik løsning som passer til lige netop dig. Jeg  tror ikke på at én løsning passer til alle, men at vi sammen kan tilpasse og planlægge et individuelt forløb så du kan nå dine mål.</div>
 		</div>
 
-		<div class="twi w-7-lg">
+		<div class="twi w-6-lg">
 			<div class="i lazyload" data-src="/assets/images/nyd-en-hverdag.jpg">
 				<div class="if"></div>
 			</div>

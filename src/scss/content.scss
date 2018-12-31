@@ -211,9 +211,21 @@ form {
 }
 
 @media (min-width: $breakpoint-large) {
+	.desktop-container {
+		justify-content: space-between;
+		padding: $spacer * 3;
+	}
+
 	.t {
-		&.bg-g {
-			font-size: 24px;
+		padding: $spacer * 3;
+		font-size: 24px;
+
+		h2 {
+			font-size: 50px;
+		}
+
+		h3 {
+			font-size: 30px;
 		}
 	}
 }
