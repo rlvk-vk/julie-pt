@@ -228,4 +228,30 @@ form {
 			font-size: 30px;
 		}
 	}
+
+	.twi {
+		.i {
+			height: $imageHeight * 2;
+		}
+
+		.c {
+			margin: 0 $spacer;
+			padding: $imageHeight + $spacer * 2 $spacer $spacer;
+			font-size: 24px;
+
+			h3 {
+				font-size: 28px;
+			}
+		}
+	}
+
+	.iwt {
+		padding: $spacer * 2;
+
+		.c {
+			h3 {
+				font-size: 50px;
+			}
+		}
+	}
 }
