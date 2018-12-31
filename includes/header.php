@@ -16,6 +16,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css" />
 		<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.vkmedia.dk/vk-css-utility-1.0.0.css" />
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		
 		<!-- Online assets -->
 		<!-- TODO: Should be downloaded so they are not dependent on an internet connection -->
