@@ -49,8 +49,6 @@ const lazyloader = () => {
 			bottom: $(window).height() + $(document).scrollTop() + (($(window).height() + $(document).scrollTop()) * 0.1)
 		}
 
-		console.log(viewport);
-
 		const images = $('.lazyload')
 
 		images.each(function(){
