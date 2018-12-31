@@ -213,6 +213,8 @@ form {
 @media (min-width: $breakpoint-large) {
 	#h {
 		.c {
+			left: $spacer * 2;
+			
 			h1 {
 				font-size: 50px;
 			}
@@ -259,8 +261,6 @@ form {
 		font-size: 24px;
 
 		.c {
-			left: $spacer * 2;
-			
 			h3 {
 				font-size: 50px;
 			}
