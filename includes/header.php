@@ -30,7 +30,7 @@
 		<!-- End Google Tag Manager (noscript) -->
 		
 		<header>
-			<a href="/" id="m-l">Logo</a>
+			<a href="/" id="m-l"><img src="/assets/logo-white.svg" alt="Main logo"></a>
 			<div id="toggle-menu">
 				<span></span>
 				<span></span>
