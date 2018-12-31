@@ -211,6 +211,14 @@ form {
 }
 
 @media (min-width: $breakpoint-large) {
+	#h {
+		.c {
+			h1 {
+				font-size: 50px;
+			}
+		}
+	}
+
 	.desktop-container {
 		justify-content: space-between;
 		padding: $spacer * 3;
@@ -251,6 +259,8 @@ form {
 		font-size: 24px;
 
 		.c {
+			left: $spacer * 2;
+			
 			h3 {
 				font-size: 50px;
 			}
