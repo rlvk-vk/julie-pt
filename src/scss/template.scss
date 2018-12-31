@@ -17,7 +17,7 @@ body {
 			background-color: rgba($black, .4);
 
 			#m-l {
-				color: $white;
+				background-image: url('/assets/images/logo-white.svg');
 			}
 
 			#toggle-menu {
@@ -31,7 +31,7 @@ body {
 	&.landing-page {
 		header {
 			#m-l {
-				color: $white;
+				background-image: url('/assets/images/logo-white.svg');
 			}
 			
 			#toggle-menu {
@@ -54,14 +54,12 @@ header {
 
 	#m-l {
 		text-decoration: none;
-		color: $black;
-		transition: color .4s;
-		text-transform: uppercase;
-
-		img {
-			width: $spacer * 2;
-			height: $spacer * 2;
-		}
+		background-image: url('/assets/images/logo-black.svg');
+		display: block;
+		width: $spacer * 2;
+		height: $spacer * 2;
+		background-position: center;
+		background-size: contain;
 	}
 
 	#toggle-menu {
@@ -150,12 +148,14 @@ footer {
 }
 
 #f-l {
+	text-decoration: none;
+	background-image: url('/assets/images/logo-white.svg');
 	display: block;
-
-	img {
-		width: $spacer * 3;
-		height: $spacer * 3;
-	}
+	width: $spacer * 3;
+	height: $spacer * 3;
+	background-position: center;
+	background-size: contain;
+	margin: $spacer auto;
 }
 
 #vendor {

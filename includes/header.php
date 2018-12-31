@@ -30,7 +30,7 @@
 		<!-- End Google Tag Manager (noscript) -->
 		
 		<header class="d-f jc-sb ai-c">
-			<a href="/" id="m-l"><img src="/assets/images/logo-white.svg" alt="Main logo"></a>
+			<a href="/" id="m-l"></a>
 			<div id="toggle-menu">
 				<span></span>
 				<span></span>
