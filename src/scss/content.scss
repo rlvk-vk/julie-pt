@@ -236,7 +236,7 @@ form {
 
 		.c {
 			margin: 0 $spacer;
-			padding: $imageHeight + $spacer * 2 $spacer $spacer;
+			padding: ($imageHeight * 2) + ($spacer * 2) $spacer $spacer;
 			font-size: 24px;
 
 			h3 {

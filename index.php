@@ -43,13 +43,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	</div>
 
 	<div class="d-f-lg desktop-container">
-		<div class="t bg-d">
+		<div class="t bg-d w-5-lg">
 			<h3>Fleksibelt træningsprogram</h3>
 			<h2>Dig og din hverdag</h2>
 			<div>Med et online forløb hos mig, kan du føle dig lige så sikker som ved personlig træning. Som træner vil jeg og min klient arbejde tæt sammen blandt andet via. mail, telefon eller skype så du kan føle dig tryg under hele træningsforløbet.</div>
 		</div>
 
-		<div class="twi">
+		<div class="twi w-6-lg">
 			<div class="i lazyload" data-src="/assets/images/ligemeget-hvor-du-er.jpg">
 				<div class="if"></div>
 			</div>
