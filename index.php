@@ -42,20 +42,22 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 
-	<div class="t bg-d">
-		<h3>Fleksibelt træningsprogram</h3>
-		<h2>Dig og din hverdag</h2>
-		<div>Med et online forløb hos mig, kan du føle dig lige så sikker som ved personlig træning. Som træner vil jeg og min klient arbejde tæt sammen blandt andet via. mail, telefon eller skype så du kan føle dig tryg under hele træningsforløbet.</div>
-	</div>
-
-	<div class="twi">
-		<div class="i lazyload" data-src="/assets/images/ligemeget-hvor-du-er.jpg">
-			<div class="if"></div>
+	<div class="d-f-lg desktop-container">
+		<div class="t bg-d">
+			<h3>Fleksibelt træningsprogram</h3>
+			<h2>Dig og din hverdag</h2>
+			<div>Med et online forløb hos mig, kan du føle dig lige så sikker som ved personlig træning. Som træner vil jeg og min klient arbejde tæt sammen blandt andet via. mail, telefon eller skype så du kan føle dig tryg under hele træningsforløbet.</div>
 		</div>
-		<div class="c">
-			<h3>Ligemeget hvor du er</h3>
-			<div class="mb-2">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
-			<button class="cta center">Online forløb</button>
+
+		<div class="twi">
+			<div class="i lazyload" data-src="/assets/images/ligemeget-hvor-du-er.jpg">
+				<div class="if"></div>
+			</div>
+			<div class="c">
+				<h3>Ligemeget hvor du er</h3>
+				<div class="mb-2">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
+				<button class="cta center">Online forløb</button>
+			</div>
 		</div>
 	</div>
 
