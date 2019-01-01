@@ -223,9 +223,13 @@ form {
 	top: 20vh;
 	left: 50%;
 	transform: translateX(-50%);
-	padding: $spacer;
+	padding: $spacer $spacer $spacer * 2;
 	z-index: 10;
 	box-shadow: 1px 1px 6px rgba(black, .2);
+
+	i {
+		cursor: pointer;
+	}
 
 	&.success {
 		background-color: $green1;

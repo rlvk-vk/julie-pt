@@ -5,7 +5,7 @@ $(document).ready(() => {
 });
 
 const menuHandler = () => {
-	$('#toggle-menu').on('click', function() {
+	$('#toggle-menu').on('click', function(){
 		$('#overlay').fadeToggle()
 		$('header').toggleClass('toggled')
 		$('header nav').toggle()
@@ -74,5 +74,11 @@ const lazyloader = () => {
 
 	$(document).on('scroll', () => {
 		handler()
+	})
+}
+
+const dialogHandler = () => {
+	$('.dialog i').on('click', function(){
+		$(this).parent().fadeOut()
 	})
 }
