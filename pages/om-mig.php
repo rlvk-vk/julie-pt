@@ -58,7 +58,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 
 		<div class="t bg-d w-6-lg o-7-lg">
-			<div>Jeg døjede med maveproblemer fra jeg var 17 år til jeg blev 22 år, hvor jeg begyndte en del af de år til at finde ud af hvad i alverden der var galt med mig. Først og fremmest fandt jeg ud af at min krop reagerede utrolig dårligt på alt hvad der hed mælkeprodukter og det blev virkelig en udfordring, for alt hvad jeg tidligere bare havde puttet i munden uden at tænke over det, indhold cirka 70 procent af det, en eller anden form for mælk. Jeg blev langsomt bedre og bedre til det og fik det også markant bedre i min mave og krop efter jeg cuttede det fra min kost.</div>
+			<div class="ta-l-lg">Jeg døjede med maveproblemer fra jeg var 17 år til jeg blev 22 år, hvor jeg begyndte en del af de år til at finde ud af hvad i alverden der var galt med mig. Først og fremmest fandt jeg ud af at min krop reagerede utrolig dårligt på alt hvad der hed mælkeprodukter og det blev virkelig en udfordring, for alt hvad jeg tidligere bare havde puttet i munden uden at tænke over det, indhold cirka 70 procent af det, en eller anden form for mælk. Jeg blev langsomt bedre og bedre til det og fik det også markant bedre i min mave og krop efter jeg cuttede det fra min kost.</div>
 		</div>
 
 		<div class="twi w-4-lg o-4-lg">
@@ -71,13 +71,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			</div>
 		</div>
 
-		<div class="i ih-2" style="background-image: url('/assets/images/vegansk-livsstil.jpg');">
+		<div class="i ih-2 w-6-lg o-9-lg" style="background-image: url('/assets/images/vegansk-livsstil.jpg');">
 			<div class="if"></div>
 			<h2 class="q ta-l">“Jeg er stor tilhænger af den platebaserede kost, både i forhold til sundhed og helbredsmæssige fordele.”</h2>
 		</div>
 
-		<div class="t bg-d">
-			<div>I 2017 stødte jeg ind i den veganske livsstil og dens verden. Min kæreste som i forvejen levede vegansk præsenteret mig for den, da jeg i forvejen havde skåret meget ned på min indtag af kød, da jeg havde en ide om at min mave ikke var særlig glad for det. Derfor begyndte jeg at blive nysgerrig på den plantebaseret livsstil og august 2017 opgav jeg kødet for alvor. Det var en hel ny verden for mig og hold nu op hvor lærte jeg meget. Min krop og mit energiniveau blev pludselig noget helt andet og min mave har aldrig været bedre. Jeg undersøgte efterhånden mere og mere og blev klar over alle de sundhedsmæssig fordele ved vegansk kost.</div>
+		<div class="t bg-d w-6-lg o-8-lg">
+			<div class="ta-l-lg">I 2017 stødte jeg ind i den veganske livsstil og dens verden. Min kæreste som i forvejen levede vegansk præsenteret mig for den, da jeg i forvejen havde skåret meget ned på min indtag af kød, da jeg havde en ide om at min mave ikke var særlig glad for det. Derfor begyndte jeg at blive nysgerrig på den plantebaseret livsstil og august 2017 opgav jeg kødet for alvor. Det var en hel ny verden for mig og hold nu op hvor lærte jeg meget. Min krop og mit energiniveau blev pludselig noget helt andet og min mave har aldrig været bedre. Jeg undersøgte efterhånden mere og mere og blev klar over alle de sundhedsmæssig fordele ved vegansk kost.</div>
 		</div>
 
 		<div class="twi w-4-lg o-5-lg">
