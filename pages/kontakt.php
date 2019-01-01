@@ -42,7 +42,7 @@ if($_POST && isset($_POST['submit'])) {
 
 <main>
 	<?php if(isset($dialog) && $dialog['show']){ ?>
-		<div class="dialog w-10 w-lg-4 <?php echo $dialog['type']; ?>">
+		<div class="dialog w-10 w-4-lg fs-3 ta-c <?php echo $dialog['type']; ?>">
 			<?php echo $dialog['message']; ?>
 		</div>
 	<?php } ?>
