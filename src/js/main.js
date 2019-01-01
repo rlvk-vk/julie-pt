@@ -1,7 +1,8 @@
 $(document).ready(() => {
 	menuHandler()
 	scrollHandler()
-	lazyloader();
+	lazyloader()
+	dialogHandler()
 });
 
 const menuHandler = () => {
