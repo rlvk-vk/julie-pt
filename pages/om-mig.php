@@ -19,7 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 	
-	<div class="d-f-lg fw-w-lg desktop-container">
+	<div class="d-f-lg fw-w-lg desktop-container jc-sa-lg">
 		<div class="twi w-4-lg o-1-lg">
 			<div class="i" style="background-image: url('/assets/images/elsker-at-videreformidle.jpg');">
 				<div class="if"></div>
@@ -90,13 +90,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			</div>
 		</div>
 
-		<div class="i ih-2" style="background-image: url('/assets/images/erfaring-med-traening.jpg');">
+		<div class="i ih-2 w-6-lg o-10-lg" style="background-image: url('/assets/images/erfaring-med-traening.jpg');">
 			<div class="if"></div>
 			<h2 class="q ta-l">“Jeg begyndte at få mere erfaring men først efter flere års træning fandt jeg ud af hvad der virkede for mig”</h2>
 		</div>
 
-		<div class="t bg-d">
-			<div>Igennem min træningsrejse har jeg prøvet det meste. Jeg har brugt uendelig lang tid på et løbebånd og være fuld fokuseret på cardio, da jeg var overbevist om at det var vejen frem for at tabe sig og blive mere tonet. Jeg har fulgt en masse videoer og hjemmetræningsprogrammer med tusindvis af øvelser og repetitioner og jeg har lavet alle mulige former for vægtløftningsøvelser og variationer uden i virkeligheden at vide hvad det egentlig var jeg gerne ville og hvordan jeg i det hele taget skulle træne.</div>
+		<div class="t bg-d  w-6-lg o-11-lg">
+			<div class="ta-l-lg">Igennem min træningsrejse har jeg prøvet det meste. Jeg har brugt uendelig lang tid på et løbebånd og være fuld fokuseret på cardio, da jeg var overbevist om at det var vejen frem for at tabe sig og blive mere tonet. Jeg har fulgt en masse videoer og hjemmetræningsprogrammer med tusindvis af øvelser og repetitioner og jeg har lavet alle mulige former for vægtløftningsøvelser og variationer uden i virkeligheden at vide hvad det egentlig var jeg gerne ville og hvordan jeg i det hele taget skulle træne.</div>
 		</div>
 	</div>
 </main>
