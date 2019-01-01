@@ -246,8 +246,8 @@ form {
 
 		.c {
 			margin: 0 $spacer;
-			padding: ($imageHeight * 2) + ($spacer * 2) $spacer $spacer;
-			font-size: 24px;
+			padding: ($imageHeight * 2) + ($spacer * 2) $spacer * 2 $spacer * 2;
+			font-size: 18px;
 
 			h3 {
 				font-size: 28px;
