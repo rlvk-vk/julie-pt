@@ -29,7 +29,7 @@ if($_POST && isset($_POST['submit'])) {
 		$emailMsg 		.= "Besked:<br />" . $message;
 		$emailMsg 		.= "</body></html>";
 		
-		if(mail($admin['email'], $emailSubject, $emailMsg, $headers)){
+		if(mail('robin@vkmedia.dk', $emailSubject, $emailMsg, $headers)){
 			$dialog['show'] = true;
 			$dialog['message'] = 'Din besked er blevet sendt!';
 			$dialog['type'] = 'success';
