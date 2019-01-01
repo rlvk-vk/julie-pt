@@ -19,25 +19,29 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 	
-	<div class="twi">
-		<div class="i" style="background-image: url('/assets/images/elsker-at-videreformidle.jpg');">
-			<div class="if"></div>
-			<h2 class="ta-l">Jeg elsker at videreformidle den viden om kost og træning som jeg har erfaret virker</h2>
+	<div class="d-f-lg desktop-container">
+		<div class="twi w-6-lg">
+			<div class="i" style="background-image: url('/assets/images/elsker-at-videreformidle.jpg');">
+				<div class="if"></div>
+				<h2 class="ta-l">Jeg elsker at videreformidle den viden om kost og træning som jeg har erfaret virker</h2>
+			</div>
+			<div class="c">
+				<div class="mb-2">Jeg valgt at specialisere mig indenfor vegansk kost, både i forhold til træning men også på generel basis. For mig er det helt klart en af de ting som jeg vægter utrolig højt, da jeg selv blev veganer i 2017. Så hvis du er nysgerrig på en mere plantebaseret kost i forbindelse med din træning, er du kommet det helt rigtige sted hen. Men hvis du derimod ikke har mod på at smide de animalske produkter helt endnu, skal du heller ikke være bleg for at kontakte mig, da jeg kan hjælpe dig med en sundere livsstil og få et bedre forhold til din kost hvad end du er kødspiser, spiser plantebaseret eller har et ønske om at ændre din kost i forbindelse med træning.</div>
+				<button class="cta center">Skriv til mig</button>
+			</div>
 		</div>
-		<div class="c">
-			<div class="mb-2">Jeg valgt at specialisere mig indenfor vegansk kost, både i forhold til træning men også på generel basis. For mig er det helt klart en af de ting som jeg vægter utrolig højt, da jeg selv blev veganer i 2017. Så hvis du er nysgerrig på en mere plantebaseret kost i forbindelse med din træning, er du kommet det helt rigtige sted hen. Men hvis du derimod ikke har mod på at smide de animalske produkter helt endnu, skal du heller ikke være bleg for at kontakte mig, da jeg kan hjælpe dig med en sundere livsstil og få et bedre forhold til din kost hvad end du er kødspiser, spiser plantebaseret eller har et ønske om at ændre din kost i forbindelse med træning.</div>
-			<button class="cta center">Skriv til mig</button>
+
+		<div class="w-6-lg">
+			<div class="i ih-2" style="background-image: url('/assets/images/smidighed.jpg');">
+				<div class="if"></div>
+			</div>
+
+			<div class="q pl-1 pr-1 mb-2 ta-c">“For mig er fitness en stor del af mit hverdagsliv. Men fitness betyder ikke at have store muskler. Det betyder at være aktiv, hurtig og fleksibel. Det kan defineres på mange forskellige måder.”</div>
+
+			<div class="t bg-d">
+				<div>Jeg tror ikke på at et træningsprogram på 8 uger med en meget stram kostplan eller diæt er vejen frem for alle, så derfor er det vigtigt for mig at tage højde for mine klienters mål og ønsker i overensstemmelse hvad de har lyst til at prøve kræfter med og kan finde motivation og glæde ved.<br /><br />For mig er det vigtigt at kunne hjælpe folk og være med til at udarbejde og finde en løsning som passer til lige netop dig.<br /><br />Skal jeg være en del af dine personlige rejse og hjælpe dig på vej til dine mål eller finde lyst og motivationen til din træning så kontakt mig på juliebech95@gmail.com eller skriv til mig her på siden.</div>
+			</div>
 		</div>
-	</div>
-
-	<div class="i ih-2" style="background-image: url('/assets/images/smidighed.jpg');">
-		<div class="if"></div>
-	</div>
-
-	<div class="q pl-1 pr-1 mb-2 ta-c">“For mig er fitness en stor del af mit hverdagsliv. Men fitness betyder ikke at have store muskler. Det betyder at være aktiv, hurtig og fleksibel. Det kan defineres på mange forskellige måder.”</div>
-
-	<div class="t bg-d">
-		<div>Jeg tror ikke på at et træningsprogram på 8 uger med en meget stram kostplan eller diæt er vejen frem for alle, så derfor er det vigtigt for mig at tage højde for mine klienters mål og ønsker i overensstemmelse hvad de har lyst til at prøve kræfter med og kan finde motivation og glæde ved.<br /><br />For mig er det vigtigt at kunne hjælpe folk og være med til at udarbejde og finde en løsning som passer til lige netop dig.<br /><br />Skal jeg være en del af dine personlige rejse og hjælpe dig på vej til dine mål eller finde lyst og motivationen til din træning så kontakt mig på juliebech95@gmail.com eller skriv til mig her på siden.</div>
 	</div>
 
 	<div class="twi">
