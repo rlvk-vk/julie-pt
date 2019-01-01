@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 <main>
 	<h1 id="p-t">Kontakt</h1>
 
-	<div class="d-f-lg fw-w-lg jc-sa-lg desktop-container">
+	<div class="d-f-lg fw-w-lg jc-sb-lg desktop-container">
 		<div class="w-5-lg o-1-lg">
 			<div class="q ta-c pr-1 pl-1 mb-2">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
 			
