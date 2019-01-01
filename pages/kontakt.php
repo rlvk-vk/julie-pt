@@ -6,16 +6,18 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 	<h1 id="p-t">Kontakt</h1>
 
 	<div class="d-f-lg fw-w-lg jc-sa-lg desktop-container">
-		<div class="q ta-c pr-1 pl-1 mb-2 w-6-lg o-1-lg">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
-
-		<div class="ta-c pr-1 pl-1 mb-2 w-6-lg o-2-lg">
-			Julie Bechmann Jensen<br />
-			Byskov Allé 19, 3 Tv<br />
-			4200 Slagelse, Danmark<br />
-			Juliebech95@gmail.com
+		<div class="w-5-lg o-1-lg">
+			<div class="q ta-c pr-1 pl-1 mb-2">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
+			
+			<div class="ta-c pr-1 pl-1 mb-2">
+				Julie Bechmann Jensen<br />
+				Byskov Allé 19, 3 Tv<br />
+				4200 Slagelse, Danmark<br />
+				Juliebech95@gmail.com
+			</div>
 		</div>
 
-		<div class="twi w-6-lg o-4-lg">
+		<div class="twi w-5-lg o-2-lg">
 			<div class="i" style="background-image: url('/assets/images/kontakt.jpg');">
 				<div class="if"></div>
 			</div>
@@ -24,7 +26,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			</div>
 		</div>
 
-		<form action="/kontakt" method="POST" class="w-6-lg o-3-lg">
+		<form action="/kontakt" method="POST" class="w-5-lg o-3-lg">
 			<h3 class="mb-1">Kontakt mig herunder</h3>
 			<div class="form-element">
 				<label for="form-name">Navn</label>
