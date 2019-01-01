@@ -23,8 +23,7 @@
 		<!-- Online assets -->
 		<!-- TODO: Should be downloaded so they are not dependent on an internet connection -->
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400i,700" rel="stylesheet">
-		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.5.0/css/brands.css" integrity="sha384-t0iPfoyIjBoVR2Kw/65HArpRWQy0/xKBUmdEVTs5VYBb/yiPZxMY6egc9MROr/Og" crossorigin="anonymous">
-		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.5.0/css/fontawesome.css" integrity="sha384-srL3Qh9R/n855m4o5fegS//B2q0R1md7z6ndDYaPj8iEp0j0IuKdFVWMY0JosKPF" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
 	</head>
 	<body <?php echo $_SERVER[REQUEST_URI] === '/' ? 'class="landing-page"' : null; ?>>
 		<!-- Google Tag Manager (noscript) -->
