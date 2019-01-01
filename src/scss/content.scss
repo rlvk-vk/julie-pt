@@ -217,6 +217,22 @@ form {
 	}
 }
 
+.dialog {
+	color: $white;
+	position: fixed;
+	top: 20vh;
+	left: 50%;
+	transform: translateX(-50%);
+
+	&.success {
+		background-color: $green1;
+	}
+
+	&.error {
+		background-color: $red;
+	}
+}
+
 @media (min-width: $breakpoint-large) {
 	#h {
 		.c {

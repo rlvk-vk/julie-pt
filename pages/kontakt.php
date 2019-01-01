@@ -3,24 +3,50 @@ $PAGE_TITLE = 'Kontakt | Julie Personlig Træner';
 include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php';
 
 if($_POST && isset($_POST['submit'])) {
-	echo 'test';
+	$email 		= htmlentities($_POST['email']);
+	$name 		= htmlentities($_POST['name']);
+	$subject 	= htmlentities($_POST['subject']);
+	$message 	= htmlentities($_POST['message']);
+
+	$dialog = [
+		"show" => false,
+		"message" => null,
+		"type" => 'error'
+	];
+
+	if(!empty($email) && !empty($name) && !empty($subject) && !empty($message)){
+		$dialog['show'] = true;
+		$dialog['message'] = 'Din besked er blevet sendt!';
+		$dialog['type'] = 'success';
+	} else {
+		$dialog['show'] = true;
+		$dialog['message'] = 'Udfyld venligst alle felter!';
+	}
+
+	/* $emailSubject 	= 'Ny henvendelse fra din kontaktformular!';
+	$headers 		= "MIME-Version: 1.0" . "\r\n";
+	$headers 		.= "Content-type:text/html;charset=UTF-8" . "\r\n";
+	$headers 		.= 'From: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
+	$headers 		.= 'Sender: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
+	$headers 		.= 'Reply-To: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
+	$emailMsg		= "<html><head><meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;'><link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet'></head>";
+	$emailMsg 		.= "<body style='font-family: Lato, sans-serif; font-size: 16px; padding: 10px; line-height: 1.5; border: 5px solid #35342f'; padding: 0; margin: 0; width: 100%; height: 100vh; background-color: #f2f2f2;>";
+	$emailMsg 		.= "<div style='text-align: left; margin: 15px;'><img src='https://detrigtigematch.dk/public/images/logo_black_text.png' style='width: 120px;' width='120'></div><br>";
+	$emailMsg 		.= "<strong>" . print_field_content($conn, 'emails', 'email4BeforeName') . " " . $admin['name'] . "</strong><br><div>" . print_field_content($conn, 'emails', 'email4Message') . "<a style='height: 50px; line-height: 50px; background-color: #458e83; color: #f2f2f2; text-align: center; text-decoration: none; width: 200px; font-weight: 700; font-size: 20px; border: 0; margin: 20px auto 0; display: block;' href='https://detrigtigematch.dk'>" . print_field_content($conn, 'emails', 'email4ButtonText') . "</a></div>";
+	$emailMsg 		.= "</body></html>";
+
+	mail($admin['email'], $emailSubject, $emailMsg, $headers); */
 }
 
-/* $emailSubject = print_field_content($conn, 'emails', 'email4Subject');
-$headers = "MIME-Version: 1.0" . "\r\n";
-$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-$headers .= 'From: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
-$headers .= 'Sender: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
-$headers .= 'Reply-To: Det Rigtige Match! <noreply@detrigtigematch.dk>' . "\r\n";
-$emailMsg = "<html><head><meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;'><link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet'></head>";
-$emailMsg .= "<body style='font-family: Lato, sans-serif; font-size: 16px; padding: 10px; line-height: 1.5; border: 5px solid #35342f'; padding: 0; margin: 0; width: 100%; height: 100vh; background-color: #f2f2f2;>";
-$emailMsg .= "<div style='text-align: left; margin: 15px;'><img src='https://detrigtigematch.dk/public/images/logo_black_text.png' style='width: 120px;' width='120'></div><br>";
-$emailMsg .= "<strong>" . print_field_content($conn, 'emails', 'email4BeforeName') . " " . $admin['name'] . "</strong><br><div>" . print_field_content($conn, 'emails', 'email4Message') . "<a style='height: 50px; line-height: 50px; background-color: #458e83; color: #f2f2f2; text-align: center; text-decoration: none; width: 200px; font-weight: 700; font-size: 20px; border: 0; margin: 20px auto 0; display: block;' href='https://detrigtigematch.dk'>" . print_field_content($conn, 'emails', 'email4ButtonText') . "</a></div>";
-$emailMsg .= "</body></html>";
-mail($admin['email'], $emailSubject, $emailMsg, $headers); */
 ?>
 
 <main>
+	<?php if(isset($dialog) && $dialog['show']){ ?>
+		<div class="dialog w-10 w-lg-4 <?php echo $dialog['type']; ?>">
+			<?php echo $dialog['message']; ?>
+		</div>
+	<?php } ?>
+
 	<h1 id="p-t">Kontakt</h1>
 
 	<div class="d-f-lg fw-w-lg jc-sb-lg desktop-container">
