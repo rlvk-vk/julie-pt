@@ -21,14 +21,13 @@ if($_POST && isset($_POST['submit'])) {
 		$headers 		.= 'From: ' . $name . '<' . $email . '>' . "\r\n";
 		$headers 		.= 'Sender: ' . $name . '<' . $email . '>' . "\r\n";
 		$headers 		.= 'Reply-To: ' . $name . '<' . $email . '>' . "\r\n";
-		/* $emailMsg		= "<html><head><meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;'><link href='https://fonts.googleapis.com/css?family=Lato:400' rel='stylesheet'></head>";
+		$emailMsg		= "<html><head><meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;'><link href='https://fonts.googleapis.com/css?family=Lato:400' rel='stylesheet'></head>";
 		$emailMsg 		.= "<body style='font-family: Lato, sans-serif; font-size: 16px; padding: 10px; line-height: 1.5; margin: 0; width: 100%; height: 100vh; background-color: #fafafa;'>";
 		$emailMsg 		.= "Navn:<br />" . $name . "<br />";
 		$emailMsg 		.= "Email:<br />" . $email . "<br />";
 		$emailMsg 		.= "Emne:<br />" . $subject . "<br />";
 		$emailMsg 		.= "Besked:<br />" . $message;
-		$emailMsg 		.= "</body></html>"; */
-		$emailMsg = 'Tester';
+		$emailMsg 		.= "</body></html>";
 		
 		if(mail('robin@vkmedia.dk', $emailSubject, wordwrap($emailMsg, 70, "\r\n"), $headers)){
 			$dialog['show'] = true;
