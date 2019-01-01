@@ -32,7 +32,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 
 		<div class="t bg-d w-6-lg o-6-lg">
-			<div class="mb-2 ta-l-lg fs-2-lg">Er du stadigvæk i tvivl om et online forløb er noget for dig? Alle kan få noget ud af et online forløb. Det er blandt andet for dig hvis du kan nikkede genkendende til et af punkterne herunder:<br /><br /></div>
+			<div class="mb-2 ta-l-lg fs-3-lg">Er du stadigvæk i tvivl om et online forløb er noget for dig? Alle kan få noget ud af et online forløb. Det er blandt andet for dig hvis du kan nikkede genkendende til et af punkterne herunder:<br /><br /></div>
 			<ul class="ta-l ml-2 mb-4 fs-2-lg">
 				<li>Du har et ønske om et vægttab men du ved ikke helt hvordan du skal gribe det an eller komme igang</li>
 				<li>Du har brug for hjælp fra en som kan holde dig på sporet og være med til at du når dine mål og ønsker</li>
