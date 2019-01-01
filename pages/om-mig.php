@@ -53,11 +53,11 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			</div>
 		</div>
 
-		<div class="i ih-2" style="background-image: url('/assets/images/klar-til-loeb.jpg');">
+		<div class="i ih-2 w-6-lg o-6-lg" style="background-image: url('/assets/images/klar-til-loeb.jpg');">
 			<div class="if"></div>
 		</div>
 
-		<div class="t bg-d">
+		<div class="t bg-d w-6-lg o-7-lg">
 			<div>Jeg døjede med maveproblemer fra jeg var 17 år til jeg blev 22 år, hvor jeg begyndte en del af de år til at finde ud af hvad i alverden der var galt med mig. Først og fremmest fandt jeg ud af at min krop reagerede utrolig dårligt på alt hvad der hed mælkeprodukter og det blev virkelig en udfordring, for alt hvad jeg tidligere bare havde puttet i munden uden at tænke over det, indhold cirka 70 procent af det, en eller anden form for mælk. Jeg blev langsomt bedre og bedre til det og fik det også markant bedre i min mave og krop efter jeg cuttede det fra min kost.</div>
 		</div>
 
