@@ -87,19 +87,20 @@ h3 {
 		font-size: 20px;
 	}
 
-	> div {
-		max-width: 1200px;
-		margin: 0 auto;
-	}
-
+	
 	&.bg-d {
 		background-color: $white;
 		color: $black;
 	}
-
+	
 	&.bg-g {
 		background-color: $green1;
 		color: $white;
+		
+		> div {
+			max-width: 1200px;
+			margin: 0 auto;
+		}
 	}
 
 	ul {
