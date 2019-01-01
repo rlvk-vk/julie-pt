@@ -87,6 +87,11 @@ h3 {
 		font-size: 20px;
 	}
 
+	> div {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
 	&.bg-d {
 		background-color: $white;
 		color: $black;
@@ -246,7 +251,7 @@ form {
 
 		.c {
 			margin: 0 $spacer;
-			padding: ($imageHeight * 2) + ($spacer * 2) $spacer * 2 $spacer * 2;
+			padding: ($imageHeight * 2) + ($spacer * 2) $spacer $spacer * 2;
 			font-size: 18px;
 
 			h3 {
