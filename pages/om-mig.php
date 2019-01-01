@@ -32,14 +32,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 
 		<div class="o-3-lg">
-			<div class="i ih-2" style="background-image: url('/assets/images/smidighed.jpg');">
+			<div class="i ih-2 w-6-lg" style="background-image: url('/assets/images/smidighed.jpg');">
 				<div class="if"></div>
 			</div>
 
-			<div class="q pl-1 pr-1 mb-2 ta-c">“For mig er fitness en stor del af mit hverdagsliv. Men fitness betyder ikke at have store muskler. Det betyder at være aktiv, hurtig og fleksibel. Det kan defineres på mange forskellige måder.”</div>
+			<div class="w-6-lg">
+				<div class="q pl-1 pr-1 mb-2 ta-c w-8-lg">“For mig er fitness en stor del af mit hverdagsliv. Men fitness betyder ikke at have store muskler. Det betyder at være aktiv, hurtig og fleksibel. Det kan defineres på mange forskellige måder.”</div>
 
-			<div class="t bg-d">
-				<div>Jeg tror ikke på at et træningsprogram på 8 uger med en meget stram kostplan eller diæt er vejen frem for alle, så derfor er det vigtigt for mig at tage højde for mine klienters mål og ønsker i overensstemmelse hvad de har lyst til at prøve kræfter med og kan finde motivation og glæde ved.<br /><br />For mig er det vigtigt at kunne hjælpe folk og være med til at udarbejde og finde en løsning som passer til lige netop dig.<br /><br />Skal jeg være en del af dine personlige rejse og hjælpe dig på vej til dine mål eller finde lyst og motivationen til din træning så kontakt mig på juliebech95@gmail.com eller skriv til mig her på siden.</div>
+				<div class="t bg-d">
+					<div>Jeg tror ikke på at et træningsprogram på 8 uger med en meget stram kostplan eller diæt er vejen frem for alle, så derfor er det vigtigt for mig at tage højde for mine klienters mål og ønsker i overensstemmelse hvad de har lyst til at prøve kræfter med og kan finde motivation og glæde ved.<br /><br />For mig er det vigtigt at kunne hjælpe folk og være med til at udarbejde og finde en løsning som passer til lige netop dig.<br /><br />Skal jeg være en del af dine personlige rejse og hjælpe dig på vej til dine mål eller finde lyst og motivationen til din træning så kontakt mig på juliebech95@gmail.com eller skriv til mig her på siden.</div>
+				</div>
 			</div>
 		</div>
 
