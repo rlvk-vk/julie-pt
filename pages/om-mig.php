@@ -19,7 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		</div>
 	</div>
 	
-	<div class="d-f-lg desktop-container">
+	<div class="d-f-lg fw-w-lg desktop-container">
 		<div class="twi w-4-lg o-1-lg">
 			<div class="i" style="background-image: url('/assets/images/elsker-at-videreformidle.jpg');">
 				<div class="if"></div>
