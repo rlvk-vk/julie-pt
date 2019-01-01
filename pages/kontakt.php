@@ -35,7 +35,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 			<div class="form-element">
 				<label for="form-email">E-mail</label>
-				<input id="form-email" type="text" name="email" placeholder="E-mail">
+				<input id="form-email" type="email" name="email" placeholder="E-mail">
 			</div>
 
 			<div class="form-element">
