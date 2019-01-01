@@ -15,13 +15,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<button class="cta center">Se anbefalinger</button>
 		</div>
 
-		<div class="twi o-3-lg">
-			<div class="i" style="background-image: url('/assets/images/udnyt-dit-potentiale.jpg');">
-				<div class="if"></div>
-				<h2 class="ta-r os-3">Udnyt dit potentiale 100 procent hver eneste gang du træner</h2>
-			</div>
-			<div class="c">
-				<div class="b">Det kan være svært alene at udnytte sit potentiale 100 procent. Som personlig træner vil jeg kunne presse dig tilpas meget så du får det maksimale ud af din træning, samtidig med at du undgå skader og overbelastninger og jeg vil kunne evaluere din fremskridt så du hele tiden har en ide at du hele tiden udvikler dig, i den rigtige retning og kan give et boost i forhold til motivationen, når du ved at der sker fremskridt og du rykker dig.<br />Som din personlige træner vil jeg både at presse dig når der er brug for det, give dig gode råd, motivere dig til at nå dit mål og støtte dig hele vejen igennem, uanset som du ønsker et vægttab, en bedre form, opbygge mere muskelmasse eller få en bedre teknik. Jeg vil give dig professionel vejledning, uanset om du har brug for 4 træninger sammen med mig i løbet af en uge eller har brug for mere frie rammer, og ind imellem har brug for et skulderklap på vejen. Jeg kan hjælpe dig med at konkretisere dine mål og gøre dem realistiske.<br />Derfor gør jeg en ære i at skræddersy netop det helt rigtige forløb til, så det passer på lige netop og at du får den helt rigtige vejledning og som personlig træner vil jeg sammen med dig sætte nogle træningsmål, i overensstemmelse med dine ønsker, samt en kost som virker overskuelig for dig uden restriktioner  og forbudte fødevarer, men på baggrund af mine anbefalinger.</div>
+		<div class="o-3-lg d-f-lg jc-c-lg">
+			<div class="twi w-4-lg">
+				<div class="i" style="background-image: url('/assets/images/udnyt-dit-potentiale.jpg');">
+					<div class="if"></div>
+					<h2 class="ta-r os-3">Udnyt dit potentiale 100 procent hver eneste gang du træner</h2>
+				</div>
+				<div class="c">
+					<div class="b">Det kan være svært alene at udnytte sit potentiale 100 procent. Som personlig træner vil jeg kunne presse dig tilpas meget så du får det maksimale ud af din træning, samtidig med at du undgå skader og overbelastninger og jeg vil kunne evaluere din fremskridt så du hele tiden har en ide at du hele tiden udvikler dig, i den rigtige retning og kan give et boost i forhold til motivationen, når du ved at der sker fremskridt og du rykker dig.<br />Som din personlige træner vil jeg både at presse dig når der er brug for det, give dig gode råd, motivere dig til at nå dit mål og støtte dig hele vejen igennem, uanset som du ønsker et vægttab, en bedre form, opbygge mere muskelmasse eller få en bedre teknik. Jeg vil give dig professionel vejledning, uanset om du har brug for 4 træninger sammen med mig i løbet af en uge eller har brug for mere frie rammer, og ind imellem har brug for et skulderklap på vejen. Jeg kan hjælpe dig med at konkretisere dine mål og gøre dem realistiske.<br />Derfor gør jeg en ære i at skræddersy netop det helt rigtige forløb til, så det passer på lige netop og at du får den helt rigtige vejledning og som personlig træner vil jeg sammen med dig sætte nogle træningsmål, i overensstemmelse med dine ønsker, samt en kost som virker overskuelig for dig uden restriktioner  og forbudte fødevarer, men på baggrund af mine anbefalinger.</div>
+				</div>
 			</div>
 		</div>
 
