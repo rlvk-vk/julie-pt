@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 <main>
 	<h1 id="p-t">Personlig træning</h1>
 
-	<div class="d-f-lg desktop-container">
+	<div class="d-f-lg fw-w-lg desktop-container">
 		<div class="i ih-2 w-6-lg o-1-lg" style="background-image: url('/assets/images/personlig-traening.jpg');">
 			<div class="if"></div>
 		</div>
