@@ -224,6 +224,8 @@ form {
 	left: 50%;
 	transform: translateX(-50%);
 	padding: $spacer;
+	z-index: 10;
+	box-shadow: 1px 1px 6px rgba(black, .2);
 
 	&.success {
 		background-color: $green1;
