@@ -4,8 +4,7 @@
 			<section id="f-c">
 				<h3>Kontakt</h3>
 				<p>Julie Bechmann Jensen</p>
-				<p>julie@vkmedia.dk</p>
-				<p>12 34 56 78</p>
+				<p><a href="mailto:kontakt@julie-pt.dk">kontakt@julie-pt.dk</a></p>
 			</section>
 
 			<section class="mb-4" id="some">

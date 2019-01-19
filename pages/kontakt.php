@@ -23,13 +23,13 @@ if($_POST && isset($_POST['submit'])) {
 		$headers 		.= 'Reply-To: ' . $name . '<' . $email . '>' . "\r\n";
 		$emailMsg		= "<html><head><meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;'><link href='https://fonts.googleapis.com/css?family=Lato:400' rel='stylesheet'></head>";
 		$emailMsg 		.= "<body style='font-family: Lato, sans-serif; font-size: 16px; padding: 10px; line-height: 1.5; margin: 0; width: 100%; height: 100vh; background-color: #fafafa;'>";
-		$emailMsg 		.= "Navn:<br />" . $name . "<br />";
-		$emailMsg 		.= "Email:<br />" . $email . "<br />";
-		$emailMsg 		.= "Emne:<br />" . $subject . "<br />";
+		$emailMsg 		.= "Navn:<br />" . $name . "<br /><br />";
+		$emailMsg 		.= "Email:<br />" . $email . "<br /><br />";
+		$emailMsg 		.= "Emne:<br />" . $subject . "<br /><br />";
 		$emailMsg 		.= "Besked:<br />" . $message;
 		$emailMsg 		.= "</body></html>";
 		
-		if(mail('robin@vkmedia.dk', $emailSubject, wordwrap($emailMsg, 70, "\r\n"), $headers)){
+		if(mail('kontakt@julie-pt.dk', $emailSubject, wordwrap($emailMsg, 70, "\r\n"), $headers)){
 			$dialog['show'] = true;
 			$dialog['message'] = 'Din besked er blevet sendt!';
 			$dialog['type'] = 'success';
@@ -61,10 +61,8 @@ if($_POST && isset($_POST['submit'])) {
 			<div class="q ta-c pr-1 pl-1 mb-2 w-8-lg">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
 			
 			<div class="ta-c pr-1 pl-1 mb-2">
-				Julie Bechmann Jensen<br />
-				Byskov Allé 19, 3 Tv<br />
-				4200 Slagelse, Danmark<br />
-				Juliebech95@gmail.com
+				Julie Bechmann Jensen<br /><br />
+				kontakt@julie-pt.dk
 			</div>
 		</div>
 
