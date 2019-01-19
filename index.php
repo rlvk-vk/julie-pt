@@ -28,7 +28,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<div class="c">
 				<h3>Nyd en hverdag med træning som du elsker</h3>
 				<div class="mb-2">Med personlig træning er det dine mål  og ønsker til træning som er i fokus og jeg møder dig der hvor du er.</div>
-				<button class="cta center">Læs mere</button>
+				<a href="/personlig-traening" class="cta center">Læs mere</a>
 			</div>
 		</div>
 	</div>
@@ -38,7 +38,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		<div class="c ta-r w-9 w-4-lg os-8-lg os-3">
 			<h2 class="mb-2">Det rette mindset og fuld fokus på dine mål</h2>
 			<div class="mb-6">Jeg tror på at man sagtens kan opbygge muskler og styrke udelukkede på en plantebaseret kost. Det handler om at være opmærksom på hvad man indtager og det passer til ens personlige mål<br /><br />Vil du høre mere om hvad jeg kan gøre for dig?</div>
-			<button class="cta d-ib">Personlig træning</button>
+			<a href="/personlig-traening" class="cta d-ib">Personlig træning</a>
 		</div>
 	</div>
 
@@ -56,7 +56,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<div class="c">
 				<h3>Ligemeget hvor du er</h3>
 				<div class="mb-2">Uanset hvor du befinder dig i Danmark eller andre dele af verden kan du få en personlig træner, selv hvis du ikke har muligheden for at komme hvor jeg er.</div>
-				<button class="cta center">Online forløb</button>
+				<a href="/online-forloeb" class="cta center">Online forløb</a>
 			</div>
 		</div>
 	</div>
@@ -66,7 +66,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 		<div class="c ta-r w-9 os-3 w-4-lg os-8-lg">
 			<h2 class="mb-2">E-bøger og guides til dig</h2>
 			<div class="mb-6">Inspiration til at kickstarte træningsforløb og gode råd til den veganske livsstil?</div>
-			<button class="cta d-ib">Læs mere</button>
+			<a href="/guides" class="cta d-ib">Læs mere</a>
 		</div>
 	</div>
 

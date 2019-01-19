@@ -39,6 +39,7 @@ h3 {
 
 .cta {
 	display: block;
+	width: fit-content;
 	padding: $spacer * .5 $spacer;
 	border: none;
 	font-size: 14px;
@@ -48,6 +49,8 @@ h3 {
 	box-shadow: $shadow1;
 	text-transform: uppercase;
 	-webkit-appearance: none;
+	text-decoration: none;
+	text-align: center;
 
 	&:hover {
 		cursor: pointer;

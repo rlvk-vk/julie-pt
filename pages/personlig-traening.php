@@ -12,7 +12,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 
 		<div class="t bg-d w-6-lg o-2-lg">
 			<div class="mb-2 ta-l-lg fs-2-lg">Alle mennesker er forskellige og det gør sig også gældende når der er tale om træning og kost. Derfor kan et personlig træningsforløb være lige noget for dig. Ønsker du at komme i gang med din træning, men har svært ved at finde overskuddet, motivationen eller ved måske slet ikke hvor du skal starte?<br />Med et personlig træningsforløb hos mig kan jeg være lige netop det du har brug for, for at få et skub i den rigtige retning.<br />Personlig træning er for alle, lige fra studerende til pensionist, også selvom dine mål er vidt forskellige.<br />Et personligt træningsforløb er for dig som gerne vil presses til at nå dine mål. Jeg kan være med til at presse dig  til det yderste.</div>
-			<button class="cta center">Se anbefalinger</button>
+			<a href="#anbefalinger" class="cta center">Se anbefalinger</a>
 		</div>
 
 		<div class="o-5-lg d-f-lg jc-c-lg">
@@ -32,9 +32,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 			<h2 class="ta-l">Gode træningsprogrammer til dig der stadigvæk er lidt i tvivl</h2>
 		</div>
 
-		<div class="t bg-d w-6-lg o-3-lg">
+		<div id="anbefalinger" class="t bg-d w-6-lg o-3-lg">
 			<div class="mb-2 ta-l-lg fs-2-lg">Det kan være svært at vide hvad man ønsker når man skal i gang med at træne og derfor vil jeg give dig mine anbefalinger til mit personlige træningsforløb, der indeholder træningsprogrammer af en uges varighed, med et forløb på 8-10 uger tilpasset dine ønsker. En kostplan udarbejdet alene så den er tilpasset dine behov og mål. Kropsanalyse som indeholder måling af fedtprocent, cm, samt billeder af hele din process hvis du ønsker dette. Der er som minimum en ugentlig opfølgning på dig og din udvikling, 2 timers træning om ugen i selskab med mig eller efter dit behov og du har mulighed for at kontakte mig over mail eller telefon under hele forløbet.<br /><br/>Prisen på et “to gange om ugen” træningsforløb er 3000 ,-  pr. måned med 8 timers personlig træning. 375,- pr. time<br /><br />Kontakt mig endelig på mail eller her på hjemmesiden for at booke et træningsforløb eller for at høre mere om hvad jeg kan gøre for lige netop dig. </div>
-			<button class="cta center">Skriv til mig</button>
+			<a href="/kontakt" class="cta center">Skriv til mig</a>
 		</div>
 	</div>
 </main>

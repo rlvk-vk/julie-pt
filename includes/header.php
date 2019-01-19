@@ -25,7 +25,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400i,700" rel="stylesheet">
 		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
 	</head>
-	<body <?php echo $_SERVER[REQUEST_URI] === '/' ? 'class="landing-page"' : null; ?>>
+	<body <?php if(isset($_SERVER['REQUEST_URI'])){echo $_SERVER['REQUEST_URI'] === '/' ? 'class="landing-page"' : null;} ?>>
 		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCJNTBF"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
