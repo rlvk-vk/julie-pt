@@ -58,7 +58,7 @@ if($_POST && isset($_POST['submit'])) {
 
 	<div class="d-f-lg fw-w-lg jc-sb-lg desktop-container">
 		<div class="w-5-lg o-1-lg">
-			<div class="q ta-c pr-1 pl-1 mb-2 w-8-lg">“Fitness handler ikke om at være bedre end nogen andet. Det handler om at være bedre end du plejede at være.”</div>
+			<div class="q ta-c pr-1 pl-1 mb-2 w-8-lg">“Fitness handler ikke om at være bedre end nogen andre. Det handler om at være bedre end dig selv.”</div>
 			
 			<div class="ta-c pr-1 pl-1 mb-2">
 				Julie Bechmann Jensen<br /><br />
@@ -71,7 +71,7 @@ if($_POST && isset($_POST['submit'])) {
 				<div class="if"></div>
 			</div>
 			<div class="c">
-				<div class="b">Jeg elsker at kunne gøre noget godt for andre og give et skub i den rigtige retning og at få  har succes med deres mål. Succes og mål kan være en udfordring men med en hjælpende hånd kan være netop det man har brug for. Skal jeg være en del af din rejse?</div>
+				<div class="b">Jeg elsker at kunne gøre noget godt for andre og give et dem skub i den rigtige retning. så folk har succes med deres mål. Succes og mål kan være en udfordring, men med en hjælpende hånd, kan være netop det man har brug for, for at gennemføre deres personlige udvikling og rejse. Skal jeg være en del af din rejse?</div>
 			</div>
 		</div>
 
