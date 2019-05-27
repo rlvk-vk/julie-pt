@@ -50,7 +50,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>
 				<p>Med 10 klip får du:</p>
 				<ul>
 					<li>Indledende samtale om dine mål og behov</li>
-					<li>3 træningssessioner Á 50 minutter</li>
+					<li>10 træningssessioner Á 50 minutter</li>
 					<li>1 træningsprogram som passer til dine mål og ønsker + 1 gang justering</li>
 					<li>2 Looptjek</li>
 				</ul>
